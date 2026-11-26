@@ -1,0 +1,1121 @@
+employee_id,department,grade,manager_id,location,hire_date,exit_date,exit_reason,status,email
+E0001,ENGINEERING,G4,,Dhaka HQ,30/10/2020,24/06/2023,Higher studies,Exited,e0001@example.com
+E0002,Engg,G4,E0001,Dhaka HQ,2018-05-26,,,Active,e0002@example.com
+E0003,Tech,G4,E0001,Sylhet,06/12/2020,06-Apr-2022,Career growth,Exited,e0003@example.com
+E0004,Sales,G5,,Dhaka HQ,2018-05-26,,,Active,e0004@example.com
+E0005,Sales,G5,E0004,Dhaka HQ,2018-02-25,,,Active,e0005@example.com
+E0006,Sales,G5,E0004,Dhaka HQ,01/04/2020,2022-12-06,Workload,Exited,e0006@example.com
+E0007,Ops,G5,,Dhaka HQ,29-Nov-2020,,,Active,e0007@example.com
+E0008,OPERATIONS,G4,E0007,Dhaka HQ,18/11/2018,10-Jul-2023,Career growth,Exited,e0008@example.com
+E0009,Operations,G5,E0007,DHAKA HQ ,24/10/2019,28/08/2022,Workload,Exited,e0009@example.com
+E0010,CS,G4,,Dhaka HQ,2021-01-03,24/05/2022,Personal,Exited,e0010@example.com
+E0011,Customer Support,G5,E0010,Dhaka HQ,2019-11-24,27/02/2024,Better offer,Exited,e0011@example.com
+E0012,Customer Support,G4,E0010,Dhaka HQ,2021-01-20,,,Active,e0012@example.com
+E0013,Finance & Accounts,G5,,Sylhet,2019-04-30,21/05/2022,Better offer,Exited,e0013@example.com
+E0014,Finance & Accounts,G4,E0013,Chattogram,03-Mar-2020,04/06/2025,Relocation,Exited,e0014@example.com
+E0015,Finance,G4,E0014,Dhaka HQ,2021-01-31,,,Active,e0015@example.com
+E0016,People,G4,,Dhaka HQ,19-Nov-2018,28-Nov-2022,Career growth,Exited,e0016@example.com
+E0017,People,G5,E0016,Sylhet,27/01/2020,25/05/2024,Career growth,Exited,e0017@example.com
+E0018,Human Resources,G5,E0016,Dhaka HQ,2018-08-07,,,Active,e0018@example.com
+E0019,PRODUCT,G4,,Chattogram,06-Aug-2020,23/02/2023,Better offer,Exited,e0019@example.com
+E0020,Product,G5,E0019,Dhaka HQ,31-Oct-2018,,,Active,e0020@example.com
+E0021,Product Mgmt,G5,E0020,Dhaka HQ,12/06/2018,25/02/2022,Personal,Exited,e0021@example.com
+E0022,People,G5,E0016,Sylhet,11-Jun-2020,,,Active,e0022@example.com
+E0023,Finance,G3,E0015,Sylhet,31-Mar-2020,2024-02-08,Career growth,Exited,e0023@example.com
+E0024,Engineering,G4,E0003,Dhaka HQ,2018-12-12,27-Mar-2023,Career growth,Exited,e0024@example.com
+E0025,Tech,,E0003,Dhaka HQ,2019-11-20,09-Dec-2025,Better offer,Exited,e0025@example.com
+E0026,Engineering,G3,E0025,Dhaka HQ,13/03/2019,16-Nov-2025,Workload,Exited,e0026@example.com
+E0027,Engg,G4,E0002,Dhaka HQ,04/04/2019,27-Dec-2022,Better offer,Exited,e0027@example.com
+E0028,People,G3,E0022,Dhaka HQ,2020-10-17,,,Active,e0028@example.com
+E0029,SALES,G2,E0004,Dhaka HQ,08-Jan-2019,,,Active,e0029@example.com
+E0030,Ops,G1,E0009,Dhaka HQ,2020-09-07,,,Active,e0030@example.com
+E0031,sales,G4,E0004,Sylhet,2021-09-29,02/06/2022,Workload,Exited,e0031@example.com
+E0032,Operations,G2,E0007,Chattogram,2018-09-20,28-Jan-2024,Better offer,Exited,e0032@example.com
+E0033,Customer Support,G1,E0012,Chattogram,08/11/2020,01-Dec-2022,Workload,Exited,e0033@example.com
+E0034,FIN,G3,E0015,Dhaka HQ,14/08/2021,2024-08-01,Higher studies,Exited,e0034@example.com
+E0035,ENGINEERING,G3,E0001,Dhaka HQ,2020-01-08,,,Active,e0035@example.com
+E0036,Engg,G1,E0002,Dhaka HQ,22/11/2020,,,Active,e0036@example.com
+E0037,Sales,G1,E0004,Dhaka HQ,2018-11-01,2024-09-04,Workload,Exited,e0037@example.com
+E0038,Engg,G2,E0024,Dhaka HQ,2019-03-14,,,Active,e0038@example.com
+E0039,ENGINEERING,G5,E0003,Chattogram,28/11/2021,14-Oct-2023,Workload,Exited,e0039@example.com
+E0040,Product,G3,E0020,Dhaka HQ,21/10/2018,,,Active,e0040@example.com
+E0041,Engineering,G5,E0025,Sylhet,2020-09-13,06/07/2024,Personal,Exited,e0041@example.com
+E0042,OPERATIONS,G4,E0009,Dhaka HQ,07-Feb-2019,27-Aug-2024,Career growth,Exited,e0042@example.com
+E0043,People,G4,E0016,Sylhet,21-Jun-2021,28/02/2022,Better offer,Exited,e0043@example.com
+E0044,Engg,G1,E0001,Sylhet,23/09/2018,2024-11-03,Career growth,Exited,e0044@example.com
+E0045,Tech,G2,E5230,Dhaka HQ,2018-10-02,,,Active,e0045@example.com
+E0046,sales,G3,E0006,Chattogram,09-Mar-2021,,,Active,e0046@example.com
+E0047,Sales & BD,G1,E0004,Dhaka HQ,07-Jul-2021,,,Active,e0047@example.com
+E0048,Tech,G4,E0024,Dhaka HQ,19-Dec-2019,09/03/2024,Career growth,Exited,e0048@example.com
+E0049,Tech,G3,E0048,Dhaka HQ,2018-11-16,12/04/2022,Personal,Exited,e0049@example.com
+E0050,HR,G4,E0017,Dhaka HQ,04-May-2021,03-Mar-2022,Better offer,Exited,e0050@example.com
+E0051,Finance & Accounts,G1,E0014,Sylhet,2018-10-26,,,Active,e0051@example.com
+E0052,Operations,G2,E0009,Dhaka HQ,10-Jun-2020,02/07/2025,Workload,Exited,e0052@example.com
+E0053,Engg,G3,E0001,Dhaka HQ,19/07/2019,04-Nov-2025,Better offer,Exited,e0053@example.com
+E0054,Product Mgmt,G3,E0021,Chattogram,06-Jan-2021,,,Active,e0054@example.com
+E0055,Operations,G1,E0008,Sylhet,2021-04-17,2024-08-21,Workload,Exited,e0055@example.com
+E0056,Operations,G1,E0009,Dhaka HQ,06/07/2019,06/04/2025,Relocation,Exited,e0056@example.com
+E0057,FIN,G4,E0013,Dhaka HQ,2021-09-12,,,Active,e0057@example.com
+E0058,Finance & Accounts,G5,E0014,Dhaka HQ,23-Aug-2019,,,Active,e0058@example.com
+E0059,Product Mgmt,G4,E0019,Dhaka HQ,2020-12-05,07/04/2024,Career growth,Exited,e0059@example.com
+E0060,customer support,G1,E0012,Dhaka HQ,2020-07-12,16-Jun-2023,Better offer,Exited,e0060@example.com
+E0061,Sales & BD,G4,E0005,Dhaka HQ,14/09/2021,2022-10-21,Career growth,Exited,e0061@example.com
+E0062,customer support,G1,E0012,Dhaka HQ,23-Aug-2020,24/12/2023,Better offer,Exited,e0062@example.com
+E0063,Sales & BD,G4,E0006,Dhaka HQ,2020-05-11,13/06/2023,Better offer,Exited,e0063@example.com
+E0064,Sales,,E0006,Dhaka HQ,07/10/2021,,,Active,e0064@example.com
+E0065,Operations,G1,E0042,Dhaka HQ,07/06/2020,15/01/2024,Better offer,Exited,e0065@example.com
+E0066,OPERATIONS,G1,E0008,Dhaka HQ,2019-01-20,16/07/2024,Personal,Exited,e0066@example.com
+E0067,Tech,G1,E0048,Dhaka HQ,2019-06-23,,,Active,e0067@example.com
+E0068,Operations,G2,E0007,Dhaka HQ,2020-01-26,2024-12-02,Better offer,Exited,e0068@example.com
+E0069,Ops,G2,E0009,Sylhet,19-Aug-2019,,,Active,e0069@example.com
+E0070,People,G2,E0018,Chattogram,2020-12-11,11-Feb-2022,Personal,Exited,e0070@example.com
+E0071,Ops,G2,E0008,Chattogram,2021-12-02,2023-01-10,Relocation,Exited,e0071@example.com
+E0072,sales,G2,E0005,Sylhet,12-Jun-2019,17/05/2024,Better offer,Exited,e0072@example.com
+E0073,Operations,G3,E0009,Sylhet,20-Dec-2020,2022-05-28,Higher studies,Exited,e0073@example.com
+E0074,Engineering,G3,E0024,Dhaka HQ,2020-08-08,,,Active,e0074@example.com
+E0075,ENGINEERING,G1,E0041,Sylhet,30-Aug-2021,14-Aug-2024,Better offer,Exited,e0075@example.com
+E0076,Sales & BD,G3,E0031,Chattogram,30/10/2020,2025-02-13,Better offer,Exited,e0076@example.com
+E0077,Sales & BD,G3,E0004,Dhaka HQ,2021-02-03,,,Active,e0077@example.com
+E0078,customer support,G2,E0012,Dhaka HQ,07/01/2019,09/03/2024,Career growth,Exited,e0078@example.com
+E0079,FIN,G2,E0057,Sylhet,29-Mar-2021,,,Active,e0079@example.com
+E0080,HR,G2,E0050,Sylhet,10/06/2019,,,Active,e0080@example.com
+E0081,Sales,G2,E0005,Chattogram,06-Nov-2018,28-Jan-2022,Performance,Active,e0081@example.com
+E0082,Customer Support,G3,E0012,Chattogram,14-May-2020,19-Sep-2025,Career growth,Exited,e0082@example.com
+E0083,Ops,G2,E0009,Dhaka HQ,19/05/2020,,,Active,e0083@example.com
+E0084,Ops,G1,E0042,Dhaka HQ,22-Feb-2021,05/01/2022,Personal,Exited,e0084@example.com
+E0085,OPERATIONS,G2,E0009,Sylhet,24/07/2021,06/05/2022,Better offer,Exited,e0085@example.com
+E0086,Customer Support,G4,E0012,Dhaka HQ,27/09/2019,13-Aug-2022,Workload,Exited,e0086@example.com
+E0087,Sales,G4,E0006,Chattogram,20-Nov-2021,2022-01-17,Career growth,Exited,e0087@example.com
+E0088,OPERATIONS,G3,E0008,Chattogram,2018-11-10,10-May-2023,Performance,Exited,e0088@example.com
+E0089,ENGINEERING,G2,E0039,Dhaka HQ,24/06/2019,25-Jun-2022,Higher studies,Exited,e0089@example.com
+E0090,customer support,G4,E0010,Chattogram,20/04/2019,21/02/2022,Performance,Exited,e0090@example.com
+E0091,Ops,G1,E0042,Dhaka HQ,08-Oct-2021,,,Active,e0091@example.com
+E0092,sales,G1,E0006,Dhaka HQ,01/02/2020,,,Active,e0092@example.com
+E0093,Support,G1,E0086,Dhaka HQ,18/10/2019,18/01/2022,Relocation,Exited,e0093@example.com
+E0094,Customer Support,G5,E0012,Dhaka HQ,18-Aug-2021,2022-01-17,Performance,Exited,e0094@example.com
+E0095,Tech,G3,E0024,Dhaka HQ,11/09/2021,23-May-2022,Better offer,Exited,e0095@example.com
+E0096,Sales & BD,G3,E0061,Dhaka HQ,2019-04-08,2023-03-02,Higher studies,Exited,e0096@example.com
+E0097,Operations,G3,E0008,Sylhet,2020-06-26,26/10/2022,Higher studies,Exited,e0097@example.com
+E0098,Engineering,G5,E0002,Sylhet,2021-01-01,04-Apr-2024,Personal,Exited,e0098@example.com
+E0099,HR,G2,E0050,Dhaka HQ,26-Oct-2019,2025-03-17,Better offer,Exited,e0099@example.com
+E0100,Operations,G3,E0009,Sylhet,08/05/2021,24-Nov-2022,Workload,Exited,e0100@example.com
+E0101,CS,G3,E0012,Sylhet,30/09/2018,,,Active,e0101@example.com
+E0102,Ops,G1,E0042,Chattogram,2020-01-04,17/07/2023,Workload,Exited,e0102@example.com
+E0103,Engg,G2,E0041,Dhaka HQ,22/11/2019,06/10/2023,Performance,Exited,e0103@example.com
+E0104,Human Resources,G2,E0043,Chattogram,28-May-2020,,,Active,e0104@example.com
+E0105,Operations,G2,E0008,Dhaka HQ,01/06/2020,,,Active,e0105@example.com
+E0106,customer support,G2,E0086,Dhaka HQ,2018-09-22,04-May-2024,Career growth,Exited,e0106@example.com
+E0107,Tech,G1,E0024,Dhaka HQ,06/02/2020,,,Active,e0107@example.com
+E0108,Finance & Accounts,G2,E0058,Dhaka HQ,16/05/2020,,,Active,e0108@example.com
+E0109,Engineering,G2,E0024,Chattogram,2019-08-23,,,Active,e0109@example.com
+E0110,CS,G1,E0086,Dhaka HQ,2021-05-26,,,Active,e0110@example.com
+E0111,sales,G2,E0061,Dhaka HQ,2019-11-08,2022-12-05,Better offer,Exited,e0111@example.com
+E0112,sales,G1,E0006,Dhaka HQ,18/05/2019,,,Active,e0112@example.com
+E0113,ENGINEERING,G2,E0048,Dhaka HQ,03/11/2020,16/03/2025,Better offer,Exited,e0113@example.com
+E0114,SALES,G2,E0004,Dhaka HQ,24/12/2018,28-Feb-2022,Higher studies,Exited,e0114@example.com
+E0115,sales,G1,E0004,Sylhet,2019-11-24,,,Active,e0115@example.com
+E0116,ENGINEERING,G3,E0003,Chattogram,13/04/2020,,,Active,e0116@example.com
+E0117,Tech,G2,E5533,Chattogram,07-Nov-2021,2023-12-03,Better offer,Exited,e0117@example.com
+E0118,ENGINEERING,G1,E0002,Chattogram,30-Mar-2019,,,Active,e0118@example.com
+E0119,OPERATIONS,G1,E0009,Dhaka HQ,15-Aug-2021,13/01/2022,Career growth,Exited,e0119@example.com
+E0120,customer support,G3,E0086,Chattogram,2020-08-27,22/10/2023,Career growth,Exited,e0120@example.com
+E0121,Finance,G4,E0057,Dhaka HQ,2020-04-03,21-Oct-2025,Workload,Exited,e0121@example.com
+E0122,Engg,G2,E0025,Dhaka HQ,03-Oct-2020,2022-01-06,Better offer,Exited,e0122@example.com
+E0123,Engineering,G2,E0003,Dhaka HQ,2020-12-12,,,Active,e0123@example.com
+E0124,Operations,G1,E0009,Chattogram,2021-09-27,,,Active,e0124@example.com
+E0125,Engg,G4,E0098,Dhaka HQ,11-Aug-2020,27-Oct-2023,Relocation,Exited,e0125@example.com
+E0126,Engg,G3,E0002,Dhaka HQ,06/06/2020,,,Active,e0126@example.com
+E0127,Engg,G2,E0098,Dhaka HQ,13-Mar-2020,04/07/2023,Career growth,Exited,e0127@example.com
+E0128,Sales,G4,E0061,Sylhet,31-Aug-2019,,,Active,e0128@example.com
+E0129,sales,G4,E0063,Sylhet,2021-09-12,2025-07-16,Career growth,Exited,e0129@example.com
+E0130,CS,G5,E0094,Dhaka HQ,2021-10-21,2022-05-04,Better offer,Exited,e0130@example.com
+E0131,ENGINEERING,G2,E0125,Chattogram,09-Dec-2020,,,Active,e0131@example.com
+E0132,Ops,G5,E0042,Dhaka HQ,01/03/2019,07/08/2022,Relocation,Exited,e0132@example.com
+E0133,Sales,G4,E0063,Chattogram,02-May-2021,20-Jul-2022,Personal,Exited,e0133@example.com
+E0134,CS,G1,E0010,Dhaka HQ,2018-11-02,,,Active,e0134@example.com
+E0135,sales,G5,E0087,Sylhet,2021-04-09,,,Active,e0135@example.com
+E0136,OPERATIONS,G1,E0009,Sylhet,2021-08-13,,,Active,e0136@example.com
+E0137,Support,G3,E5693,Dhaka HQ,11-Jun-2019,20-Apr-2025,Better offer,Exited,e0137@example.com
+E0138,Sales & BD,G1,E0135,Sylhet,16-Mar-2019,15/02/2023,Career growth,Exited,e0138@example.com
+E0139,CS,G2,E0010,Sylhet,12-Jan-2021,06-Aug-2023,Better offer,Exited,e0139@example.com
+E0140,Customer Support,G2,E0010,Dhaka HQ,2021-04-14,04/11/2022,Better offer,Exited,e0140@example.com
+E0141,Ops,G2,E0009,Chattogram,2020-04-14,03/02/2022,Better offer,Exited,e0141@example.com
+E0142,sales,G1,E0031,Sylhet,2018-10-31,07-Jan-2022,Performance,Exited,e0142@example.com
+E0143,Ops,G4,E0009,Chattogram,26/02/2021,04-Jun-2024,Better offer,Exited,e0143@example.com
+E0144,customer support,G3,E0130,Sylhet,02/05/2020,2022-07-18,Personal,Exited,e0144@example.com
+E0145,Ops,G4,E0042,Sylhet,2019-03-06,,,Active,e0145@example.com
+E0146,Sales,G4,E0031,Sylhet,12-Feb-2020,,,Active,e0146@example.com
+E0147,sales,G1,E0146,Chattogram,14-Aug-2019,2022-04-05,Better offer,Exited,e0147@example.com
+E0148,sales,G2,E0004,Dhaka HQ,2021-01-25,2022-11-19,Career growth,Exited,e0148@example.com
+E0149,Operations,G4,E0145,Chattogram,2020-01-23,2022-10-11,Workload,Exited,e0149@example.com
+E0150,CS,G4,E0011,Dhaka HQ,16/08/2019,2025-10-18,Workload,Exited,e0150@example.com
+E0151,Customer Support,G2,E0130,Dhaka HQ,08-Jun-2020,,,Active,e0151@example.com
+E0152,CS,G5,E0150,Sylhet,16/10/2019,2022-03-09,Performance,Exited,e0152@example.com
+E0153,Ops,G2,E0132,Dhaka HQ,2020-08-09,09-Feb-2023,Better offer,Exited,e0153@example.com
+E0154,Engg,G2,E0025,Dhaka HQ,11/05/2021,21/02/2025,Better offer,Exited,e0154@example.com
+E0155,Engineering,G1,E0027,Chattogram,10-Aug-2021,,,Active,e0155@example.com
+E0156,Ops,G1,E0008,Sylhet,29/11/2020,04/10/2023,Better offer,Exited,e0156@example.com
+E0157,FIN,G2,E0058,Dhaka HQ,27/07/2020,11-Apr-2025,Workload,Exited,e0157@example.com
+E0158,Sales,G4,E0128,Dhaka HQ,2021-11-13,,,Active,e0158@example.com
+E0159,Operations,G2,E0143,Sylhet,04/07/2021,14-Aug-2024,Better offer,Exited,e0159@example.com
+E0160,Operations,G3,E0042,Chattogram,12-May-2019,12/07/2022,Career growth,Exited,e0160@example.com
+E0161,CS,G1,E0094,Sylhet,28/04/2021,27/05/2023,Career growth,Exited,e0161@example.com
+E0162,Engineering,G1,E0098,Dhaka HQ,2019-09-14,,,Active,e0162@example.com
+E0163,Finance & Accounts,G3,E0015,Dhaka HQ,19-Feb-2019,,,Active,e0163@example.com
+E0164,OPERATIONS,G3,E0009,Dhaka HQ,07/07/2020,03-Feb-2025,Career growth,Exited,e0164@example.com
+E0165,Finance,G2,E0057,Dhaka HQ,13-Sep-2021,2024-02-27,Performance,Exited,e0165@example.com
+E0166,Engineering,G2,E0039,Dhaka HQ,07-Apr-2020,,,Active,e0166@example.com
+E0167,Engg,G4,E0027,Sylhet,2018-11-24,,,Active,e0167@example.com
+E0168,sales,G5,E0061,Dhaka HQ,22/03/2019,2023-04-24,Personal,Exited,e0168@example.com
+E0169,Operations,G1,E0042,Chattogram,01/07/2021,,,Active,e0169@example.com
+E0170,Sales & BD,G1,E0129,Dhaka HQ,2019-09-16,,,Active,e0170@example.com
+E0171,Sales & BD,G2,E0168,Dhaka HQ,2020-06-14,2022-05-28,Career growth,Exited,e0171@example.com
+E0172,ENGINEERING,G2,E0098,Dhaka HQ,2018-10-10,05/10/2022,Career growth,Exited,e0172@example.com
+E0173,Ops,G4,E0132,Chattogram,27/04/2019,21/12/2024,Relocation,Exited,e0173@example.com
+E0174,Sales,G1,E0031,Sylhet,2019-02-28,2024-05-08,Relocation,Active,e0174@example.com
+E0175,Engineering,G2,E0167,Sylhet,18-May-2019,,,Active,e0175@example.com
+E0176,Tech,G3,E0041,Sylhet,06/08/2019,,,Active,e0176@example.com
+E0177,sales,G1,E0063,Dhaka HQ,09-May-2020,05/02/2022,Better offer,Exited,e0177@example.com
+E0178,customer support,G5,E0094,Sylhet,13/05/2021,,,Active,e0178@example.com
+E0179,sales,G1,E0005,Chattogram,09/09/2019,,,Active,e0179@example.com
+E0180,Ops,,E0143,Dhaka HQ,2021-10-20,,,Active,e0180@example.com
+E0181,Product,G1,E0020,Sylhet,03/10/2018,,,Active,e0181@example.com
+E0182,SALES,G3,E0133,Dhaka HQ,2021-02-03,12-Jun-2023,Personal,Exited,e0182@example.com
+E0183,Sales,G5,E0129,Dhaka HQ,09-Feb-2021,,,Active,e0183@example.com
+E0184,ENGINEERING,G3,E0024,Sylhet,2019-11-30,15/11/2022,Personal,Exited,e0184@example.com
+E0185,Sales & BD,G1,E0006,Chattogram,11-Dec-2020,,,Active,e0185@example.com
+E0186,Ops,G2,E0008,Chattogram,22/11/2019,,,Active,e0186@example.com
+E0187,OPERATIONS,G3,E0173,Dhaka HQ,05/09/2021,2022-01-10,Performance,Exited,e0187@example.com
+E0188,Engg,G3,E0039,Dhaka HQ,28-Mar-2019,,,Active,e0188@example.com
+E0189,OPERATIONS,G1,E0008,Dhaka HQ,08-Jun-2019,,,Active,e0189@example.com
+E0190,Sales,G3,E0087,Sylhet,05-Nov-2018,,,Active,e0190@example.com
+E0191,Operations,G2,E0145,Dhaka HQ,18-May-2019,2025-03-01,Career growth,Exited,e0191@example.com
+E0192,OPERATIONS,G3,E0042,Chattogram,2018-10-30,26/11/2023,Workload,Exited,e0192@example.com
+E0193,Sales & BD,G2,E0168,Chattogram,22/08/2020,12-Mar-2023,Performance,Exited,e0193@example.com
+E0194,SALES,G3,E0063,Dhaka HQ,02-Mar-2020,2023-02-27,Higher studies,Exited,e0194@example.com
+E0195,OPERATIONS,G1,E0008,Dhaka HQ,06-Apr-2019,,,Active,e0195 at example.com
+E0196,Sales,G2,E0133,Sylhet,11/03/2021,,,Active,e0196@example.com
+E0197,OPERATIONS,G2,E0145,Dhaka HQ,27-Mar-2021,,,Active,e0197@example.com
+E0198,Sales & BD,G1,E0135,Chattogram,28/01/2019,,,Active,e0198@example.com
+E0199,Sales,G2,E0129,Dhaka HQ,25/04/2021,07/05/2022,Career growth,Exited,e0199@example.com
+E0200,Sales & BD,G3,E0158,Sylhet,08/07/2019,14/01/2022,Career growth,Exited,e0200@example.com
+E0201,OPERATIONS,G1,E0132,Dhaka HQ,19/10/2018,10-Nov-2022,Better offer,Exited,e0201@example.com
+E0202,Sales & BD,G2,E0006,Dhaka HQ,07-Jan-2020,,,Active,e0202@example.com
+E0203,Operations,G1,E0007,Dhaka HQ,2019-09-04,,,Active,e0203@example.com
+E0204,Sales & BD,G1,E0061,Dhaka HQ,04/01/2020,26-Sep-2022,Better offer,Exited,e0204@example.com
+E0205,CS,G2,E0010,Dhaka HQ,27/09/2018,2022-07-01,Better offer,Exited,e0205@example.com
+E0206,OPERATIONS,G2,E0145,Chattogram,2020-05-24,2022-04-15,Performance,Active,e0206@example.com
+E0207,OPERATIONS,G1,E0173,Dhaka HQ,07/08/2019,2022-12-27,Personal,Exited,e0207@example.com
+E0208,OPERATIONS,G2,E0132,Dhaka HQ,2019-03-12,2023-02-22,Career growth,Exited,e0208@example.com
+E0209,Sales & BD,G1,E0061,Dhaka HQ,2021-08-12,,,Active,e0209@example.com
+E0210,SALES,G1,E0146,Chattogram,01-Apr-2021,,,Active,e0210@example.com
+E0211,Engg,G2,E0024,Sylhet,16-Oct-2019,,,Active,e0211@example.com
+E0212,SALES,G4,E0004,CHATTOGRAM ,2019-09-11,,,Active,e0212@example.com
+E0213,sales,G4,E0168,Sylhet,26/06/2021,,,Active,e0213@example.com
+E0214,Engg,G5,E0003,Sylhet,21-Oct-2021,,,Active,e0214@example.com
+E0215,CS,G1,E0011,Dhaka HQ,22/11/2019,05-Aug-2022,Workload,Exited,e0215@example.com
+E0216,Tech,G3,E0024,Dhaka HQ,07/03/2020,09/06/2023,Better offer,Exited,e0216@example.com
+E0217,Support,G2,E0011,Sylhet,29-Jun-2021,,,Active,e0217@example.com
+E0218,Sales,G1,E0061,Dhaka HQ,03-Feb-2021,23-Oct-2023,Performance,Exited,e0218@example.com
+E0219,Engineering,G3,E0125,Dhaka HQ,23-Jan-2021,,,Active,e0219@example.com
+E0220,Ops,G3,E0149,Sylhet,05/10/2018,03-Mar-2023,Career growth,Exited,e0220@example.com
+E0221,Ops,G4,E0143,Dhaka HQ,10-Feb-2020,,,Active,e0221@example.com
+E0222,Sales & BD,G2,E0146,Sylhet,2020-05-19,,,Active,e0222@example.com
+E0223,Engg,G2,E0001,Dhaka HQ,02-May-2019,,,Active,e0223@example.com
+E0224,FIN,G2,E0058,Chattogram,2021-06-01,2023-02-09,Relocation,Exited,e0224@example.com
+E0225,OPERATIONS,G5,E0007,Chattogram,2018-10-24,27/12/2022,Career growth,Exited,e0225@example.com
+E0226,Sales & BD,G2,E0005,Chattogram,2019-04-03,25/01/2024,Relocation,Exited,e0226@example.com
+E0227,Tech,G5,E0002,Sylhet,30/12/2019,,,Active,e0227@example.com
+E0228,Sales & BD,G2,E0063,Dhaka HQ,17-Jun-2019,21/10/2022,Higher studies,Exited,e0228@example.com
+E0229,Sales & BD,G2,E0135,Sylhet,02-May-2020,2022-05-14,Career growth,Exited,e0229@example.com
+E0230,Sales,G1,E0158,Dhaka HQ,27/01/2020,,,Active,e0230@example.com
+E0231,SALES,G2,E0061,Dhaka HQ,29/01/2021,09/07/2022,Better offer,Exited,e0231@example.com
+E0232,Operations,G2,E0008,Dhaka HQ,13-Mar-2021,11-May-2024,Better offer,Active,e0232@example.com
+E0233,Operations,G3,E0225,Sylhet,30/01/2020,23-Nov-2025,Workload,Exited,e0233@example.com
+E0234,Ops,G2,E0009,Dhaka HQ,2021-10-26,2025-07-12,Workload,Exited,e0234@example.com
+E0235,SALES,G1,E0061,Dhaka HQ,2019-03-13,17/08/2022,Relocation,Exited,e0235@example.com
+E0236,ENGINEERING,G3,E0048,Dhaka HQ,23/11/2018,2022-04-22,Career growth,Exited,e0236@example.com
+E0237,Operations,G2,E0009,Dhaka HQ,2021-03-09,11/12/2024,Relocation,Exited,e0237@example.com
+E0238,Ops,G3,E0007,Chattogram,28-Dec-2020,2022-02-07,Better offer,Exited,e0238@example.com
+E0239,Sales,G5,E0133,Chattogram,03-Aug-2020,2022-10-04,Performance,Exited,e0239@example.com
+E0240,Finance & Accounts,G2,E0058,Chattogram,2020-10-31,,,Active,e0240@example.com
+E0241,OPERATIONS,G3,E0173,SYLHET ,2020-05-04,24/12/2024,Workload,Exited,e0241@example.com
+E0242,ENGINEERING,G4,E0001,Chattogram,2021-02-22,,,Active,e0242@example.com
+E0243,OPERATIONS,G3,E0173,Dhaka HQ,2021-05-06,2024-03-03,Workload,Exited,e0243@example.com
+E0244,Sales,G1,E0168,Dhaka HQ,16-Jan-2019,2023-02-06,Personal,Exited,e0244@example.com
+E0245,Human Resources,G3,E0018,Dhaka HQ,04/09/2020,,,Active,e0245@example.com
+E0246,Sales,G5,E0146,Dhaka HQ,04/10/2019,2023-11-22,Career growth,Exited,e0246@example.com
+E0247,sales,G3,E0135,Dhaka HQ,2021-05-14,2023-06-02,Workload,Active,e0247@example.com
+E0248,CS,G3,E0150,Chattogram,21-Feb-2021,,,Active,e0248@example.com
+E0249,Ops,G1,E0042,Dhaka HQ,23/06/2021,17-Apr-2022,Career growth,Exited,e0249@example.com
+E0250,Operations,G3,E0042,Dhaka HQ,19-Apr-2021,24/01/2025,Better offer,Active,e0250@example.com
+E0251,Tech,G2,E0214,Sylhet,2020-08-01,22-Mar-2022,Workload,Exited,e0251@example.com
+E0252,FIN,G1,E0058,Sylhet,01/12/2018,28/09/2024,Personal,Exited,e0252@example.com
+E0253,Sales & BD,G1,E0004,Sylhet,11-Feb-2021,26/09/2024,Career growth,Exited,e0253@example.com
+E0254,Engineering,G2,E0027,Dhaka HQ,10/06/2021,,,Active,e0254@example.com
+E0255,Human Resources,G2,E0043,Sylhet,14-Nov-2018,2022-02-11,Better offer,Exited,e0255@example.com
+E0256,Tech,G5,E0025,Dhaka HQ,2019-10-02,,,Active,e0256@example.com
+E0257,customer support,G1,E0011,Sylhet,2019-12-27,,,Active,e0257@example.com
+E0258,Tech,G2,E0027,Chattogram,10/11/2018,,,Active,e0258@example.com
+E0259,Product Mgmt,G2,E0020,Dhaka HQ,28-Mar-2019,01-Mar-2024,Better offer,Exited,e0259@example.com
+E0260,Engineering,G1,E0039,Dhaka HQ,16/10/2020,,,Active,e0260@example.com
+E0261,SALES,G2,E0239,CHATTOGRAM ,2020-03-07,09-Oct-2022,Better offer,Exited,e0261@example.com
+E0262,Engg,G4,E0002,Dhaka HQ,2019-12-02,03/04/2022,Better offer,Exited,e0262@example.com
+E0263,Engg,G2,E0214,Chattogram,2019-11-10,,,Active,e0263@example.com
+E0264,Product,G3,E0021,Sylhet,2019-02-20,,,Active,e0264@example.com
+E0265,SALES,G3,E0006,Chattogram,16-Jun-2021,2022-07-17,Performance,Exited,e0265@example.com
+E0266,OPERATIONS,G1,E0143,Dhaka HQ,2020-02-14,18-Sep-2022,Workload,Exited,e0266@example.com
+E0267,sales,G1,E0183,Dhaka HQ,14/07/2019,2022-10-22,Performance,Exited,e0267@example.com
+E0268,FIN,G1,E0013,Dhaka HQ,2019-06-26,10/06/2025,Relocation,Exited,e0268@example.com
+E0269,Operations,G2,E0225,Dhaka HQ,2019-08-24,,,Active,e0269@example.com
+E0270,OPERATIONS,G1,E0008,Dhaka HQ,19-Jun-2019,,,Active,e0270@example.com
+E0271,customer support,G2,E0178,Dhaka HQ,2019-11-13,14/01/2023,Better offer,Exited,e0271@example.com
+E0272,Human Resources,G2,E0016,Sylhet,02-Nov-2019,25-Nov-2024,Personal,Exited,e0272@example.com
+E0273,ENGINEERING,G2,E0048,Dhaka HQ,12/11/2019,2024-03-17,Career growth,Exited,e0273@example.com
+E0274,Engg,G2,E0024,Dhaka HQ,07/01/2019,01-May-2025,Workload,Exited,e0274@example.com
+E0275,CS,G1,E0178,Dhaka HQ,03/06/2019,2022-03-16,Workload,Exited,e0275@example.com
+E0276,Engineering,G4,E0242,Dhaka HQ,2021-02-28,23-Apr-2022,Performance,Exited,e0276@example.com
+E0277,Sales,G3,E0135,Dhaka HQ,2021-06-06,,,Active,e0277@example.com
+E0278,Sales,G4,E0063,Dhaka HQ,28-Mar-2020,26-Apr-2022,Better offer,Exited,e0278@example.com
+E0279,SALES,G3,E0128,Chattogram,17-Oct-2020,,,Active,e0279@example.com
+E0280,sales,G1,E0006,Dhaka HQ,30/10/2018,,,Active,e0280@example.com
+E0281,SALES,G2,E0168,Sylhet,28-Mar-2019,10/12/2022,Better offer,Exited,e0281@example.com
+E0282,Operations,G2,E0173,Dhaka HQ,26-May-2019,,,Active,e0282@example.com
+E0283,Engineering,G2,E0027,Dhaka HQ,30-Oct-2018,2024-03-19,Workload,Exited,e0283@example.com
+E0284,ENGINEERING,G2,E0098,Dhaka HQ,23/03/2021,,,Active,e0284@example.com
+E0285,Engg,G2,E0262,Dhaka HQ,28-Aug-2020,01/07/2023,Career growth,Exited,e0285@example.com
+E0286,Ops,G1,E0225,Dhaka HQ,31-Oct-2018,2024-01-23,Better offer,Exited,e0286@example.com
+E0287,OPERATIONS,G2,E0009,Sylhet,25-May-2021,15/09/2022,Workload,Exited,e0287@example.com
+E0288,Operations,G3,E0221,Dhaka HQ,11/01/2020,2022-04-24,Relocation,Exited,e0288 at example.com
+E0289,Support,G1,E0178,Dhaka HQ,2021-10-05,12-Jul-2022,Career growth,Exited,e0289@example.com
+E0290,Sales & BD,G2,E0239,Dhaka HQ,2021-10-01,2022-10-01,Career growth,Exited,e0290@example.com
+E0291,OPERATIONS,G2,E0225,Chattogram,2020-03-24,2023-11-18,Better offer,Exited,e0291@example.com
+E0292,Tech,G2,E0242,Dhaka HQ,2019-06-16,2024-12-12,Career growth,Exited,e0292@example.com
+E0293,SALES,G2,E0135,Dhaka HQ,2021-02-11,09/01/2022,Better offer,Exited,e0293@example.com
+E0294,Sales,G1,E0128,Chattogram,09-Oct-2018,07/07/2023,Better offer,Exited,e0294@example.com
+E0295,ENGINEERING,G1,E0024,Dhaka HQ,2019-05-27,2024-09-18,Career growth,Exited,e0295@example.com
+E0296,Ops,G5,E0009,Dhaka HQ,12/07/2020,,,Active,e0296@example.com
+E0297,customer support,G3,E0150,Sylhet,2020-11-09,,,Active,e0297@example.com
+E0298,OPERATIONS,G4,E0173,Chattogram,2021-06-01,21-Apr-2024,Workload,Exited,e0298@example.com
+E0299,Engg,G1,E0098,Chattogram,2019-12-11,2025-10-26,Performance,Exited,e0299@example.com
+E0300,OPERATIONS,G2,E0008,Chattogram,2020-04-26,2022-05-24,Better offer,Exited,e0300@example.com
+E0301,Engg,G3,E0214,Dhaka HQ,2020-06-09,,,Active,e0301@example.com
+E0302,OPERATIONS,G2,E0008,Chattogram,2019-11-21,,,Active,e0302@example.com
+E0303,OPERATIONS,G1,E0221,Sylhet,02-Nov-2018,28/07/2025,Career growth,Exited,e0303@example.com
+E0304,Sales,G2,E0146,Dhaka HQ,08-Jan-2020,,,Active,e0304@example.com
+E0305,Tech,G2,E0002,Dhaka HQ,25-Jan-2019,,,Active,e0305@example.com
+E0306,CS,G2,E0178,Sylhet,2019-01-04,,,Active,e0306@example.com
+E0307,Engineering,G1,E0098,Sylhet,2020-02-19,,,Active,e0307@example.com
+E0308,Operations,G1,E0007,Dhaka HQ,07/10/2018,,,Active,e0308@example.com
+E0309,SALES,G5,E0246,Dhaka HQ,2021-04-22,17-Aug-2023,Workload,Exited,e0309@example.com
+E0310,Operations,G1,E0225,Sylhet,06-Apr-2019,,,Active,e0310@example.com
+E0311,Ops,G2,E0009,Sylhet,19-Aug-2021,23-Nov-2025,Workload,Exited,e0311@example.com
+E0312,Customer Support,G3,E0086,Dhaka HQ,03-Feb-2021,04-Feb-2023,Career growth,Exited,e0312@example.com
+E0313,OPERATIONS,G1,E0149,Dhaka HQ,21-Apr-2021,19-Jan-2023,Career growth,Exited,e0313@example.com
+E0314,Engineering,G3,E0256,Dhaka HQ,09-Feb-2019,,,Active,e0314@example.com
+E0315,Ops,G1,E0143,Chattogram,05-Jan-2019,,,Active,e0315@example.com
+E0316,Tech,G2,E0167,Dhaka HQ,07/12/2018,08/06/2024,Personal,Exited,e0316@example.com
+E0317,Operations,G5,E0132,Sylhet,04-Nov-2020,,,Active,e0317 at example.com
+E0318,Customer Support,G3,E0150,Dhaka HQ,2020-10-04,2022-02-13,Workload,Exited,e0318@example.com
+E0319,Operations,G4,E0298,Dhaka HQ,12-Oct-2018,,,Active,e0319@example.com
+E0320,SALES,G3,E0061,Dhaka HQ,16/09/2019,2022-08-22,Workload,Exited,e0320@example.com
+E0321,ENGINEERING,G2,E0242,Dhaka HQ,2021-06-24,2022-04-20,Career growth,Exited,e0321@example.com
+E0322,Customer Support,G4,E0090,Dhaka HQ,26/05/2020,03/07/2023,Better offer,Exited,e0322@example.com
+E0323,Operations,G1,E0225,Sylhet,30-Jul-2020,,,Active,e0323@example.com
+E0324,Tech,G3,E0024,Dhaka HQ,2020-01-26,,,Active,e0324@example.com
+E0325,Engineering,G5,E5982,Chattogram,01-Nov-2018,,,Active,e0325@example.com
+E0326,Operations,G3,E0132,Dhaka HQ,20/10/2020,2022-05-12,Career growth,Exited,e0326@example.com
+E0327,sales,G4,E0006,Sylhet,03-Aug-2021,2023-03-25,Career growth,Exited,e0327@example.com
+E0328,Finance & Accounts,G2,E0014,Dhaka HQ,09-Dec-2020,10-Sep-2023,Relocation,Exited,e0328@example.com
+E0329,Product Mgmt,G3,E0020,Dhaka HQ,2019-09-11,,,Active,e0329@example.com
+E0330,OPERATIONS,G4,E0143,Dhaka HQ,27/04/2021,,,Active,e0330@example.com
+E0331,Product Mgmt,G2,E0020,Sylhet,16/11/2018,,,Active,e0331@example.com
+E0332,Engg,G3,E0048,Dhaka HQ,04-Jan-2021,,,Active,e0332@example.com
+E0333,ENGINEERING,G3,E5063,Dhaka HQ,12/01/2020,,,Active,e0333@example.com
+E0334,Finance & Accounts,G2,E0013,Chattogram,2019-07-11,,,Active,e0334@example.com
+E0335,OPERATIONS,G5,E0330,Dhaka HQ,19-Nov-2020,,,Active,e0335@example.com
+E0336,sales,G5,E0133,Sylhet,04-Jun-2020,01-Sep-2022,Higher studies,Exited,e0336@example.com
+E0337,OPERATIONS,G3,E0149,Dhaka HQ,15/06/2020,01/01/2024,Career growth,Exited,e0337@example.com
+E0338,Engg,G4,E0098,Dhaka HQ,2019-02-07,09-Mar-2022,Better offer,Exited,e0338@example.com
+E0339,FIN,G2,E0014,Dhaka HQ,2020-04-07,,,Active,e0339@example.com
+E0340,Sales & BD,G2,E0239,Chattogram,2019-10-29,,,Active,e0340@example.com
+E0341,CS,G3,E0322,Sylhet,11/09/2020,07-Jan-2022,Better offer,Exited,e0341@example.com
+E0342,sales,G1,E0246,Dhaka HQ,2022-01-23,09/08/2024,Better offer,Active,e0342@example.com
+E0343,Operations,G2,E0143,Dhaka HQ,19-Jan-2022,23-Jun-2023,Better offer,Exited,e0343@example.com
+E0344,customer support,G1,E0086,Sylhet,2022-01-15,2022-04-22,Performance,Exited,e0344@example.com
+E0345,Sales,G2,E0213,Chattogram,2022-01-02,04/06/2022,Career growth,Exited,e0345@example.com
+E0346,sales,G2,E0327,Dhaka HQ,02/01/2022,,,Active,e0346@example.com
+E0347,customer support,G1,E0011,Dhaka HQ,24-Jan-2022,08/06/2022,Career growth,Exited,e0347@example.com
+E0348,Sales & BD,G1,E0005,Dhaka HQ,23-Jan-2022,07/10/2023,Workload,Exited,e0348@example.com
+E0349,Sales,G2,E0309,Chattogram,06/01/2022,07/07/2022,Performance,Exited,e0349@example.com
+E0350,SALES,G1,E0158,Chattogram,13-Jan-2022,18/03/2022,Better offer,Exited,e0350@example.com
+E0351,Finance & Accounts,G2,E0015,Dhaka HQ,2022-01-05,2023-03-17,Career growth,Exited,e0351@example.com
+E0352,Engineering,G1,E0025,Dhaka HQ,18/01/2022,11/03/2022,Personal,Exited,e0352@example.com
+E0353,Product,G2,E0059,Sylhet,15-Jan-2022,26/04/2024,Performance,Exited,e0353@example.com
+E0354,Sales & BD,G1,E0146,Dhaka HQ,08-Jan-2022,01/03/2022,Relocation,Exited,e0354@example.com
+E0355,Customer Support,G1,E0322,Chattogram,04-Jan-2022,2022-05-27,Personal,Exited,e0355@example.com
+E0356,Operations,G1,E0009,Dhaka HQ,01/01/2022,,,Active,e0356@example.com
+E0357,OPERATIONS,G1,E0008,Chattogram,28-Jan-2022,24/07/2022,Better offer,Exited,e0357@example.com
+E0358,Sales & BD,G1,E0005,Dhaka HQ,18-Jan-2022,,,Active,e0358@example.com
+E0359,CS,G2,E0178,Sylhet,24/01/2022,2023-06-21,Personal,Exited,e0359@example.com
+E0360,Support,G1,E0090,Dhaka HQ,27/01/2022,,,Active,e0360@example.com
+E0361,SALES,G1,E0246,Dhaka HQ,09-Jan-2022,,,Active,e0361@example.com
+E0362,Ops,G2,E0008,Dhaka HQ,2022-01-14,,,Active,e0362@example.com
+E0363,CS,G2,E0130,Dhaka HQ,2022-01-11,,,Active,e0363@example.com
+E0364,Sales,G2,E0212,Dhaka HQ,06-Jan-2022,,,Active,e0364@example.com
+E0365,customer support,G2,E0152,Dhaka HQ,2022-02-03,2022-06-17,Workload,Exited,e0365@example.com
+E0366,Tech,G3,E0262,Dhaka HQ,2022-02-22,08-Apr-2022,Personal,Exited,e0366@example.com
+E0367,Operations,G1,E0042,Dhaka HQ,20/02/2022,2022-12-25,Workload,Exited,e0367@example.com
+E0368,Engg,G2,E0098,Sylhet,2022-02-22,,,Active,e0368@example.com
+E0369,Operations,G1,E0042,Dhaka HQ,22-Feb-2022,07/08/2022,Better offer,Exited,e0369@example.com
+E0370,OPERATIONS,G1,E0132,Sylhet,2022-02-17,15-Sep-2022,Career growth,Exited,e0370@example.com
+E0371,sales,G2,E0239,Dhaka HQ,2022-02-06,2023-12-23,Relocation,Exited,e0371@example.com
+E0372,Tech,G3,E0338,Dhaka HQ,11-Feb-2022,2022-09-24,Better offer,Exited,e0372@example.com
+E0373,Finance & Accounts,G2,E0014,Chattogram,01/02/2022,2024-01-12,Relocation,Exited,e0373@example.com
+E0374,Ops,G2,E0319,Chattogram,2022-02-22,,,Active,e0374@example.com
+E0375,Engg,G1,E0041,Dhaka HQ,19/02/2022,2022-11-14,Higher studies,Exited,e0375@example.com
+E0376,Sales & BD,G2,E0212,Sylhet,25/02/2022,2025-06-01,Better offer,Exited,e0376@example.com
+E0377,Ops,G1,E0296,Sylhet,19-Feb-2022,15-Jun-2022,Relocation,Exited,e0377@example.com
+E0378,Operations,G1,E0317,Dhaka HQ,2022-02-18,,,Active,e0378@example.com
+E0379,Support,G2,E0090,Dhaka HQ,21/02/2022,02/01/2023,Workload,Exited,e0379@example.com
+E0380,Customer Support,G3,E0011,Dhaka HQ,15-Feb-2022,07-Apr-2024,Higher studies,Exited,e0380@example.com
+E0381,ENGINEERING,G2,E0167,Sylhet,24-Feb-2022,2025-08-16,Workload,Exited,e0381@example.com
+E0382,Tech,G3,E0002,Sylhet,07-Feb-2022,27/01/2023,Personal,Exited,e0382@example.com
+E0383,sales,G2,E0063,Dhaka HQ,09-Feb-2022,2023-10-02,Workload,Exited,e0383@example.com
+E0384,OPERATIONS,G2,E0042,Dhaka HQ,28/02/2022,07/11/2022,Workload,Exited,e0384@example.com
+E0385,People,G1,E0016,Dhaka HQ,26/02/2022,,,Active,e0385@example.com
+E0386,sales,G3,E0213,Dhaka HQ,21-Mar-2022,2022-10-24,Relocation,Exited,e0386@example.com
+E0387,Support,,E0094,Chattogram,13-Mar-2022,16-Aug-2025,Career growth,Exited,e0387@example.com
+E0388,OPERATIONS,G1,E0335,Dhaka HQ,2022-03-16,,,Active,e0388@example.com
+E0389,Sales & BD,G1,E0129,Dhaka HQ,2022-03-08,2024-03-12,Better offer,Exited,e0389@example.com
+E0390,Customer Support,G2,E0178,Dhaka HQ,16/03/2022,,,Active,e0390@example.com
+E0391,Operations,G2,E0008,Dhaka HQ,09-Mar-2022,,,Active,e0391@example.com
+E0392,Operations,G1,E0143,Dhaka HQ,2022-03-26,27/02/2024,Better offer,Exited,e0392@example.com
+E0393,Customer Support,G3,E0010,Dhaka HQ,12-Mar-2022,23/02/2025,Personal,Exited,e0393@example.com
+E0394,People,G1,E0017,Chattogram,19/03/2022,,,Active,e0394@example.com
+E0395,ENGINEERING,G1,E0041,Dhaka HQ,2022-03-02,28/12/2023,Career growth,Exited,e0395@example.com
+E0396,Ops,G1,E0145,Dhaka HQ,01/03/2022,2023-07-23,Career growth,Exited,e0396@example.com
+E0397,Customer Support,G1,E0010,Dhaka HQ,28-Mar-2022,28/10/2022,Personal,Exited,e0397@example.com
+E0398,Operations,G2,E0335,Dhaka HQ,05-Mar-2022,2022-05-04,Better offer,Exited,e0398@example.com
+E0399,HR,G2,E0018,Dhaka HQ,2022-03-13,13-Nov-2025,Higher studies,Exited,e0399@example.com
+E0400,SALES,G2,E0168,Chattogram,06-Mar-2022,16/12/2025,Career growth,Exited,e0400@example.com
+E0401,HR,G3,E0043,Dhaka HQ,2022-03-23,2022-05-03,Better offer,Exited,e0401@example.com
+E0402,Sales & BD,G3,E0158,Dhaka HQ,2022-03-19,21/10/2023,Better offer,Exited,e0402@example.com
+E0403,Tech,G4,E0325,Chattogram,2022-03-01,,,Active,e0403@example.com
+E0404,Engg,G1,E0338,Dhaka HQ,2022-03-20,,,Active,e0404@example.com
+E0405,OPERATIONS,G2,E0149,Dhaka HQ,2022-03-11,2024-05-11,Better offer,Exited,e0405@example.com
+E0406,Product Mgmt,G2,E0019,Dhaka HQ,2022-03-06,,,Active,e0406@example.com
+E0407,sales,G1,E0031,Dhaka HQ,03-Mar-2022,,,Active,e0407@example.com
+E0408,Product Mgmt,G1,E0019,Dhaka HQ,2022-04-22,27-Jul-2025,Career growth,Exited,e0408@example.com
+E0409,Ops,G1,E0042,Sylhet,14/04/2022,,,Active,e0409@example.com
+E0410,Engineering,G2,E0098,Chattogram,2022-04-22,2025-02-10,Higher studies,Exited,e0410@example.com
+E0411,Ops,G2,E0132,Chattogram,22-Apr-2022,,,Active,e0411@example.com
+E0412,Operations,G1,E0042,Chattogram,2022-04-04,,,Active,e0412@example.com
+E0413,Engg,,E0262,Dhaka HQ,2022-04-07,,,Active,e0413@example.com
+E0414,Tech,G2,E0039,Chattogram,2022-04-18,,,Active,e0414@example.com
+E0415,Sales,G1,E0006,Dhaka HQ,2022-04-01,2022-04-08,Personal,Exited,e0415 at example.com
+E0416,ENGINEERING,G2,E0003,Dhaka HQ,03-Apr-2022,06-Feb-2023,Career growth,Exited,e0416@example.com
+E0417,Finance,G1,E0015,Dhaka HQ,21-Apr-2022,,,Active,e0417@example.com
+E0418,Engineering,G3,E0167,Dhaka HQ,02-Apr-2022,27/06/2024,Career growth,Exited,e0418@example.com
+E0419,Sales & BD,G1,E0005,Dhaka HQ,2022-04-04,04-Aug-2022,Career growth,Exited,e0419@example.com
+E0420,Engineering,G3,E0338,Dhaka HQ,12-Apr-2022,2025-08-11,Workload,Exited,e0420@example.com
+E0421,FIN,G1,E0015,Dhaka HQ,2022-04-03,16/06/2022,Better offer,Exited,e0421@example.com
+E0422,SALES,G1,E0212,Chattogram,27-Apr-2022,2022-12-28,Better offer,Exited,e0422@example.com
+E0423,Operations,G1,E0132,Dhaka HQ,2022-04-26,,,Active,e0423@example.com
+E0424,ENGINEERING,G2,E0325,Chattogram,2022-04-19,,,Active,e0424@example.com
+E0425,Engineering,G2,E0338,Dhaka HQ,13-Apr-2022,09/08/2024,Better offer,Exited,e0425@example.com
+E0426,customer support,G2,E0150,Dhaka HQ,05/04/2022,18/08/2023,Performance,Exited,e0426@example.com
+E0427,Finance,G1,E0015,Dhaka HQ,2022-04-15,26/12/2025,Better offer,Exited,e0427@example.com
+E0428,Ops,G2,E0149,Dhaka HQ,24-Apr-2022,2022-08-24,Higher studies,Exited,e0428@example.com
+E0429,OPERATIONS,G2,E0042,Chattogram,23-Apr-2022,,,Active,e0429@example.com
+E0430,sales,G2,E0061,Sylhet,2022-04-22,,,Active,e0430@example.com
+E0431,ENGINEERING,G1,E0027,Dhaka HQ,17-May-2022,,,Active,e0431@example.com
+E0432,OPERATIONS,G2,E0132,Chattogram,19/05/2022,2024-03-13,Better offer,Exited,e0432@example.com
+E0433,CS,G1,E0094,Dhaka HQ,2022-05-08,2022-11-15,Workload,Exited,e0433@example.com
+E0434,Engineering,G2,E0167,Chattogram,2022-05-07,,,Active,e0434@example.com
+E0435,Engg,G1,E0262,Dhaka HQ,2022-05-21,01/06/2023,Relocation,Exited,e0435@example.com
+E0436,Customer Support,G2,E0178,Dhaka HQ,2022-05-09,15-Nov-2022,Career growth,Exited,e0436@example.com
+E0437,Operations,G1,E0173,Chattogram,2022-05-27,,,Active,e0437@example.com
+E0438,PRODUCT,G2,E0021,Dhaka HQ,2022-05-08,07/09/2022,Career growth,Exited,e0438@example.com
+E0439,Operations,G3,E0319,Dhaka HQ,2022-05-17,24/11/2022,Better offer,Exited,e0439@example.com
+E0440,SALES,G2,E0087,Dhaka HQ,17-May-2022,,,Active,e0440@example.com
+E0441,Operations,G2,E0317,Dhaka HQ,2022-05-04,2023-07-12,Better offer,Exited,e0441@example.com
+E0442,Support,G2,E0150,Dhaka HQ,16-May-2022,22/07/2022,Better offer,Exited,e0442@example.com
+E0443,Sales & BD,G1,E5781,Sylhet,08-May-2022,28/10/2024,Better offer,Exited,e0443@example.com
+E0444,Engg,G2,E0325,Dhaka HQ,21/05/2022,2025-05-01,Better offer,Exited,e0444@example.com
+E0445,ENGINEERING,G2,E0325,Dhaka HQ,13/05/2022,28/05/2023,Workload,Exited,e0445@example.com
+E0446,Finance & Accounts,G2,E0015,Dhaka HQ,2022-05-24,,,Active,e0446@example.com
+E0447,OPERATIONS,G1,E0317,Sylhet,2022-05-16,13/12/2023,Better offer,Exited,e0447@example.com
+E0448,Engg,G3,E0027,Sylhet,2022-05-19,28/02/2024,Career growth,Exited,e0448@example.com
+E0449,Support,G3,E0178,Sylhet,11-May-2022,,,Active,e0449@example.com
+E0450,ENGINEERING,G1,E0024,Dhaka HQ,2022-05-13,2022-08-04,Better offer,Exited,e0450@example.com
+E0451,Operations,G3,E0042,Dhaka HQ,14/05/2022,2024-11-26,Relocation,Exited,e0451@example.com
+E0452,Ops,G2,E0335,Dhaka HQ,20/05/2022,14-Sep-2022,Personal,Exited,e0452@example.com
+E0453,Finance,G3,E0121,Chattogram,18/05/2022,,,Active,e0453@example.com
+E0454,Operations,,E0335,Chattogram,12/05/2022,,,Active,e0454@example.com
+E0455,Customer Support,G1,E0178,Dhaka HQ,13/05/2022,2024-10-11,Performance,Exited,e0455@example.com
+E0456,OPERATIONS,G4,E0143,Dhaka HQ,2022-06-10,,,Active,e0456@example.com
+E0457,Human Resources,G1,E0022,Dhaka HQ,17/06/2022,,,Active,e0457@example.com
+E0458,FIN,G4,E0014,Chattogram,07/06/2022,,,Active,e0458@example.com
+E0459,Engg,G1,E0024,Chattogram,26/06/2022,25-Jul-2022,Better offer,Exited,e0459@example.com
+E0460,Tech,G2,E0338,Dhaka HQ,2022-06-26,12-Jun-2024,Career growth,Exited,e0460@example.com
+E0461,SALES,G1,E0212,Dhaka HQ,03-Jun-2022,2023-04-07,Relocation,Exited,e0461@example.com
+E0462,HR,G2,E0016,Dhaka HQ,25/06/2022,22-Feb-2025,Better offer,Exited,e0462@example.com
+E0463,Operations,G2,E0042,Dhaka HQ,23/06/2022,19/04/2024,Workload,Exited,e0463@example.com
+E0464,OPERATIONS,G2,E0319,Dhaka HQ,21-Jun-2022,01/09/2024,Career growth,Exited,e0464@example.com
+E0465,Tech,G1,E0025,Dhaka HQ,13-Jun-2022,2025-09-15,Personal,Exited,e0465@example.com
+E0466,sales,G2,E0212,Dhaka HQ,10/06/2022,18/07/2022,Higher studies,Exited,e0466@example.com
+E0467,OPERATIONS,G1,E0319,Dhaka HQ,18/06/2022,2023-11-28,Workload,Exited,e0467@example.com
+E0468,Finance & Accounts,G1,E0014,Chattogram,06-Jun-2022,16/04/2025,Career growth,Exited,e0468@example.com
+E0469,Sales & BD,G2,E0183,Dhaka HQ,09-Jun-2022,,,Active,e0469@example.com
+E0470,CS,G2,E0094,Sylhet,2022-06-01,25/12/2022,Higher studies,Exited,e0470@example.com
+E0471,SALES,G1,E0239,Chattogram,24/06/2022,13/11/2022,Career growth,Exited,e0471@example.com
+E0472,Support,G2,E0094,Chattogram,2022-06-05,2022-08-16,Higher studies,Exited,e0472@example.com
+E0473,Operations,G1,E0009,Dhaka HQ,04/06/2022,,,Active,e0473@example.com
+E0474,FIN,G1,E0014,Dhaka HQ,07-Jun-2022,2022-10-28,Career growth,Exited,e0474@example.com
+E0475,Engg,G3,E0256,Sylhet,2022-06-21,,,Active,e0475@example.com
+E0476,Tech,G2,E0003,Dhaka HQ,08/06/2022,,,Active,e0476@example.com
+E0477,HR,G2,E0016,Chattogram,07/06/2022,2025-04-06,Higher studies,Exited,e0477@example.com
+E0478,Operations,G3,E0008,Sylhet,14-Jun-2022,,,Active,e0478@example.com
+E0479,SALES,G2,E0133,Dhaka HQ,2022-06-02,03/06/2023,Performance,Exited,e0479@example.com
+E0480,Engineering,G1,E0214,Dhaka HQ,24-Jun-2022,,,Active,e0480@example.com
+E0481,Engineering,G1,E0403,Dhaka HQ,22-Jun-2022,06/08/2022,Workload,Exited,e0481@example.com
+E0482,Support,G2,E0094,Chattogram,2022-06-25,,,Active,e0482@example.com
+E0483,sales,G1,E0278,Chattogram,14-Jul-2022,18/01/2024,Career growth,Exited,e0483@example.com
+E0484,Engg,G1,E0276,Dhaka HQ,2022-07-24,,,Active,e0484@example.com
+E0485,Operations,G3,E0319,Sylhet,03-Jul-2022,2022-08-15,Relocation,Active,e0485@example.com
+E0486,Operations,G1,E0225,Dhaka HQ,14/07/2022,2024-03-22,Workload,Exited,e0486@example.com
+E0487,Tech,G1,E0039,Chattogram,2022-07-24,,,Active,e0487@example.com
+E0488,FIN,G2,E0057,Dhaka HQ,03/07/2022,10-Jun-2024,Better offer,Exited,e0488@example.com
+E0489,Human Resources,G1,E5529,Dhaka HQ,2022-07-15,,,Active,e0489@example.com
+E0490,Sales & BD,G2,E0129,Dhaka HQ,07-Jul-2022,21/08/2022,Personal,Exited,e0490@example.com
+E0491,OPERATIONS,G1,E0319,Chattogram,2022-07-09,2023-02-11,Better offer,Exited,e0491@example.com
+E0492,SALES,G1,E0133,Sylhet,25/07/2022,,,Active,e0492@example.com
+E0493,Human Resources,G2,E0043,Dhaka HQ,2022-07-06,10-Jun-2024,Career growth,Exited,e0493@example.com
+E0494,ENGINEERING,G2,E0039,Sylhet,2022-07-28,2023-02-21,Workload,Exited,e0494@example.com
+E0495,Engineering,G2,E0041,Dhaka HQ,14/07/2022,,,Active,e0495@example.com
+E0496,sales,G1,E0246,Dhaka HQ,19/07/2022,13/09/2022,Career growth,Exited,e0496@example.com
+E0497,SALES,,E0212,Sylhet,2022-07-02,13-Aug-2022,Career growth,Exited,e0497@example.com
+E0498,Engg,G1,E0024,Chattogram,17/07/2022,17/09/2024,Better offer,Exited,e0498@example.com
+E0499,Support,,E0086,Dhaka HQ,23-Jul-2022,25-Mar-2023,Personal,Exited,e0499@example.com
+E0500,sales,G2,E0006,Dhaka HQ,2022-07-08,,,Active,e0500@example.com
+E0501,Operations,G2,E0007,Chattogram,28/07/2022,2022-11-22,Better offer,Exited,e0501@example.com
+E0502,Ops,G3,E0298,Dhaka HQ,05-Jul-2022,,,Active,e0502@example.com
+E0503,Ops,G1,E0009,Chattogram,21/07/2022,17/09/2022,Career growth,Exited,e0503@example.com
+E0504,Finance & Accounts,G2,E0015,Chattogram,11-Jul-2022,,,Active,e0504@example.com
+E0505,OPERATIONS,G3,E0009,Sylhet,19/07/2022,2023-06-02,Workload,Exited,e0505@example.com
+E0506,Finance & Accounts,G4,E0058,Dhaka HQ,24-Jul-2022,,,Active,e0506@example.com
+E0507,Operations,G1,E0143,Sylhet,2022-07-02,26-Dec-2022,Workload,Exited,e0507@example.com
+E0508,Operations,G2,E0145,Dhaka HQ,18/07/2022,27/10/2022,Career growth,Exited,e0508@example.com
+E0509,ENGINEERING,G2,E0325,Dhaka HQ,2022-07-16,,,Active,e0509@example.com
+E0510,CS,G1,E0094,Dhaka HQ,25-Jul-2022,2022-10-22,Higher studies,Exited,e0510@example.com
+E0511,Ops,G2,E0296,Dhaka HQ,2022-08-13,09/01/2023,Career growth,Exited,e0511@example.com
+E0512,Engg,G1,E0325,Dhaka HQ,27/08/2022,11/09/2023,Career growth,Exited,e0512@example.com
+E0513,Customer Support,G1,E0011,Chattogram,2022-08-21,2024-08-08,Workload,Exited,e0513@example.com
+E0514,Sales & BD,G1,E0128,Dhaka HQ,2022-08-22,,,Active,e0514@example.com
+E0515,Ops,G1,E0221,Dhaka HQ,23-Aug-2022,,,Active,e0515@example.com
+E0516,Sales,G2,E0168,Sylhet,2022-08-15,08/05/2024,Career growth,Exited,e0516@example.com
+E0517,Ops,G1,E0330,Sylhet,14/08/2022,2025-10-09,Personal,Exited,e0517@example.com
+E0518,Ops,G2,E0330,Dhaka HQ,11-Aug-2022,25/10/2022,Better offer,Exited,e0518@example.com
+E0519,OPERATIONS,G1,E0335,Dhaka HQ,07-Aug-2022,08-Apr-2023,Workload,Exited,e0519@example.com
+E0520,Human Resources,G2,E0016,Sylhet,2022-08-07,2022-12-15,Workload,Exited,e0520@example.com
+E0521,Engg,G1,E0325,Chattogram,09-Aug-2022,,,Active,e0521@example.com
+E0522,People,G3,E0016,Sylhet,23/08/2022,,,Active,e0522@example.com
+E0523,Sales,G2,E0213,Chattogram,03/08/2022,,,Active,e0523@example.com
+E0524,Engineering,G1,E0098,Chattogram,2022-08-27,,,Active,e0524@example.com
+E0525,Ops,G1,E0298,Dhaka HQ,11/08/2022,,,Active,e0525@example.com
+E0526,Customer Support,G3,E0322,Sylhet,06/08/2022,2025-12-08,Personal,Exited,e0526@example.com
+E0527,Finance,G2,E0506,Dhaka HQ,19-Aug-2022,,,Active,e0527@example.com
+E0528,Ops,G3,E0008,Sylhet,2022-08-25,,,Active,e0528@example.com
+E0529,Engineering,G1,E0025,Dhaka HQ,15/08/2022,,,Active,e0529@example.com
+E0530,Finance & Accounts,G2,E0458,Dhaka HQ,03-Aug-2022,2022-09-19,Higher studies,Exited,e0530@example.com
+E0531,Customer Support,G1,E0322,Sylhet,2022-08-21,06-Aug-2023,Career growth,Exited,e0531@example.com
+E0532,ENGINEERING,G1,E0098,Chattogram,01/08/2022,2024-03-24,Career growth,Exited,e0532@example.com
+E0533,Ops,G1,E0008,Dhaka HQ,2022-08-14,28-Aug-2023,Career growth,Exited,e0533@example.com
+E0534,Human Resources,G1,E0022,Dhaka HQ,12/09/2022,,,Active,e0534@example.com
+E0535,Operations,G1,E0149,Sylhet,15/09/2022,2022-11-07,Workload,Exited,e0535@example.com
+E0536,Finance,G3,E0506,Dhaka HQ,11/09/2022,,,Active,e0536@example.com
+E0537,SALES,G3,E0327,Dhaka HQ,14-Sep-2022,2025-03-13,Better offer,Exited,e0537@example.com
+E0538,customer support,G4,E0012,Sylhet,26-Sep-2022,,,Active,e0538@example.com
+E0539,Ops,G1,E0143,Sylhet,2022-09-05,14-Nov-2022,Career growth,Exited,e0539@example.com
+E0540,OPERATIONS,G1,E0330,Dhaka HQ,26/09/2022,,,Active,e0540@example.com
+E0541,PRODUCT,G3,E0021,Dhaka HQ,12-Sep-2022,2024-04-08,Workload,Exited,e0541@example.com
+E0542,Engg,G3,E0002,Dhaka HQ,2022-09-28,,,Active,e0542@example.com
+E0543,Sales & BD,G1,E0129,Dhaka HQ,18/09/2022,2023-12-13,Career growth,Exited,e0543@example.com
+E0544,CS,G1,E0152,Dhaka HQ,2022-09-25,14-Nov-2022,Higher studies,Exited,e0544@example.com
+E0545,Finance,G2,E0013,Chattogram,20-Sep-2022,13-Jun-2024,Career growth,Active,e0545@example.com
+E0546,customer support,G2,E0011,Sylhet,27-Sep-2022,06/10/2022,Better offer,Exited,e0546@example.com
+E0547,Engg,G1,E0024,Dhaka HQ,18-Sep-2022,09/03/2025,Career growth,Exited,e0547@example.com
+E0548,OPERATIONS,G1,E0296,Dhaka HQ,28-Sep-2022,2025-06-13,Better offer,Exited,e0548@example.com
+E0549,Customer Support,G2,E0011,Dhaka HQ,16-Sep-2022,2024-12-25,Personal,Exited,e0549@example.com
+E0550,OPERATIONS,G3,E0042,Dhaka HQ,2022-09-11,2023-02-11,Better offer,Active,e0550@example.com
+E0551,CS,G3,E0150,DHAKA HQ ,08/09/2022,04-Feb-2023,Career growth,Exited,e0551@example.com
+E0552,Sales,G1,E0146,Chattogram,06-Sep-2022,02-Nov-2022,Better offer,Exited,e0552@example.com
+E0553,Engineering,G2,E5362,Dhaka HQ,25/09/2022,02-Oct-2025,Career growth,Exited,e0553@example.com
+E0554,Customer Support,G3,E0150,Sylhet,14-Sep-2022,03-Aug-2023,Career growth,Exited,e0554@example.com
+E0555,Engg,G2,E0262,Dhaka HQ,2022-09-05,,,Active,e0555@example.com
+E0556,ENGINEERING,G1,E0027,Chattogram,11/09/2022,,,Active,e0556@example.com
+E0557,Operations,G1,E0008,Sylhet,21-Sep-2022,,,Active,e0557@example.com
+E0558,PRODUCT,G1,E0021,Dhaka HQ,14-Sep-2022,,,Active,e0558@example.com
+E0559,Ops,G1,E0145,Dhaka HQ,02-Oct-2022,,,Active,e0559@example.com
+E0560,Engineering,G2,E0242,Sylhet,07/10/2022,2025-03-16,Career growth,Active,e0560@example.com
+E0561,OPERATIONS,G2,E0225,Sylhet,2022-10-28,14-Nov-2024,Higher studies,Exited,e0561@example.com
+E0562,Engineering,G3,E0256,Dhaka HQ,26/10/2022,08/02/2024,Better offer,Active,e0562@example.com
+E0563,FIN,G1,E0057,Chattogram,21/10/2022,,,Active,e0563@example.com
+E0564,CS,G1,E0538,Chattogram,27-Oct-2022,2023-07-01,Personal,Exited,e0564@example.com
+E0565,Tech,G3,E0001,Dhaka HQ,06/10/2022,2024-03-16,Performance,Exited,e0565@example.com
+E0566,Ops,G1,E0145,Sylhet,05-Oct-2022,,,Active,e0566@example.com
+E0567,Finance,G1,E0013,Dhaka HQ,2022-10-12,,,Active,e0567 at example.com
+E0568,Finance & Accounts,G1,E0057,Dhaka HQ,2022-10-24,,,Active,e0568@example.com
+E0569,Engineering,G3,E0024,Dhaka HQ,06/10/2022,2023-05-19,Better offer,Exited,e0569@example.com
+E0570,OPERATIONS,G1,E0145,Dhaka HQ,04/10/2022,,,Active,e0570@example.com
+E0571,Sales,G3,E0327,Dhaka HQ,12-Oct-2022,,,Active,e0571@example.com
+E0572,Product Mgmt,G3,E0019,Dhaka HQ,14-Oct-2022,,,Active,e0572@example.com
+E0573,Engineering,G3,E0039,Sylhet,2022-10-05,,,Active,e0573@example.com
+E0574,OPERATIONS,G1,E0008,Sylhet,21-Oct-2022,26-Jan-2024,Relocation,Exited,e0574@example.com
+E0575,OPERATIONS,G2,E0132,Dhaka HQ,2022-10-28,16-Aug-2023,Career growth,Exited,e0575@example.com
+E0576,sales,G3,E0246,Chattogram,05/10/2022,05-Jul-2024,Career growth,Exited,e0576@example.com
+E0577,ENGINEERING,G3,E0338,Dhaka HQ,03/10/2022,15/08/2024,Relocation,Exited,e0577@example.com
+E0578,Finance,G2,E0506,Sylhet,25-Oct-2022,,,Active,e0578@example.com
+E0579,Ops,G2,E0335,Chattogram,11-Oct-2022,,,Active,e0579@example.com
+E0580,SALES,G2,E0246,Dhaka HQ,2022-10-13,11-Mar-2023,Career growth,Exited,e0580@example.com
+E0581,Engg,G2,E0041,Chattogram,07-Oct-2022,2022-12-14,Better offer,Exited,e0581@example.com
+E0582,CS,G1,E0538,Dhaka HQ,2022-11-06,,,Active,e0582@example.com
+E0583,Product Mgmt,G1,E0019,Dhaka HQ,2022-11-28,,,Active,e0583@example.com
+E0584,Tech,G1,E5753,Dhaka HQ,03-Nov-2022,02-Sep-2025,Career growth,Exited,e0584@example.com
+E0585,Ops,G2,E0007,Dhaka HQ,22/11/2022,26/09/2024,Better offer,Exited,e0585@example.com
+E0586,sales,G2,E0005,Dhaka HQ,01-Nov-2022,,,Active,e0586@example.com
+E0587,Sales,G5,E0129,Chattogram,17-Nov-2022,25/12/2023,Workload,Exited,e0587@example.com
+E0588,customer support,G1,E0094,Dhaka HQ,20/11/2022,26/08/2023,Better offer,Exited,e0588@example.com
+E0589,Human Resources,,E0043,Dhaka HQ,2022-11-22,,,Active,e0589@example.com
+E0590,PRODUCT,G1,E0019,Dhaka HQ,2022-11-28,27-Jan-2023,Performance,Exited,e0590@example.com
+E0591,Customer Support,G1,E0011,Sylhet,05/11/2022,28/05/2024,Career growth,Active,e0591@example.com
+E0592,SALES,G2,E0128,Dhaka HQ,2022-11-23,2023-04-20,Performance,Exited,e0592@example.com
+E0593,Finance,G1,E0057,Dhaka HQ,17/11/2022,,,Active,e0593@example.com
+E0594,Product Mgmt,G1,E0021,Dhaka HQ,27-Nov-2022,2023-12-04,Better offer,Exited,e0594@example.com
+E0595,Operations,G2,E0298,Sylhet,2022-11-08,13/03/2024,Personal,Exited,e0595@example.com
+E0596,Support,G1,E0150,Dhaka HQ,2022-11-12,,,Active,e0596@example.com
+E0597,ENGINEERING,G3,E0325,Sylhet,05-Nov-2022,,,Active,e0597@example.com
+E0598,ENGINEERING,G3,E0098,Sylhet,2022-11-16,,,Active,e0598@example.com
+E0599,FIN,G2,E0057,Dhaka HQ,2022-11-04,12/12/2024,Relocation,Exited,e0599@example.com
+E0600,Engg,G4,E0003,Dhaka HQ,25/11/2022,,,Active,e0600@example.com
+E0601,People,G3,E0018,Dhaka HQ,2022-11-11,,,Active,e0601@example.com
+E0602,Ops,G2,E0042,Dhaka HQ,2022-11-22,,,Active,e0602@example.com
+E0603,Operations,G2,E0149,Sylhet,26/11/2022,2023-11-03,Higher studies,Exited,e0603@example.com
+E0604,customer support,G1,E0094,Chattogram,20-Nov-2022,05-Sep-2023,Relocation,Exited,e0604@example.com
+E0605,Support,G2,E0152,Chattogram,21/11/2022,25/09/2024,Career growth,Exited,e0605@example.com
+E0606,Customer Support,G1,E5111,Dhaka HQ,08/11/2022,,,Active,e0606@example.com
+E0607,OPERATIONS,G2,E0042,Sylhet,07/11/2022,2023-05-01,Personal,Exited,e0607@example.com
+E0608,SALES,G1,E0158,Sylhet,2022-11-28,2023-04-20,Better offer,Exited,e0608@example.com
+E0609,Tech,G3,E0003,Sylhet,2022-12-15,28-Apr-2024,Career growth,Exited,e0609@example.com
+E0610,Ops,G1,E0132,Dhaka HQ,25-Dec-2022,,,Active,e0610@example.com
+E0611,ENGINEERING,G2,E0048,Sylhet,2022-12-14,24/04/2024,Career growth,Exited,e0611@example.com
+E0612,sales,G1,E0168,Dhaka HQ,23/12/2022,2023-02-14,Higher studies,Exited,e0612@example.com
+E0613,Ops,G4,E0335,Dhaka HQ,2022-12-17,,,Active,e0613@example.com
+E0614,sales,G1,E0336,Dhaka HQ,19/12/2022,,,Active,e0614@example.com
+E0615,Customer Support,G2,E0152,Sylhet,13/12/2022,,,Active,e0615@example.com
+E0616,CS,G2,E0130,Chattogram,2022-12-13,,,Active,e0616@example.com
+E0617,Ops,G1,E0143,Sylhet,2022-12-07,,,Active,e0617@example.com
+E0618,Finance,G2,E0058,Dhaka HQ,26/12/2022,,,Active,e0618@example.com
+E0619,customer support,G2,E0152,Dhaka HQ,10/12/2022,2023-11-03,Personal,Exited,e0619@example.com
+E0620,Sales,G2,E0129,Dhaka HQ,02-Dec-2022,09-Apr-2025,Career growth,Exited,e0620@example.com
+E0621,Sales & BD,G1,E0128,Dhaka HQ,2022-12-26,25/01/2023,Better offer,Exited,e0621@example.com
+E0622,sales,,E0135,Dhaka HQ,20-Dec-2022,26-Jun-2023,Workload,Exited,e0622@example.com
+E0623,Finance,G2,E0458,Sylhet,09-Dec-2022,,,Active,e0623@example.com
+E0624,OPERATIONS,G3,E0149,Dhaka HQ,01/12/2022,,,Active,e0624@example.com
+E0625,Tech,G2,E0325,Dhaka HQ,01/12/2022,,,Active,e0625@example.com
+E0626,HR,G3,E0050,Sylhet,2022-12-09,,,Active,e0626@example.com
+E0627,Ops,G1,E0225,Dhaka HQ,2022-12-27,,,Active,e0627@example.com
+E0628,CS,G1,E0086,Chattogram,13/12/2022,24-Mar-2025,Better offer,Exited,e0628@example.com
+E0629,SALES,G1,E0063,Chattogram,16-Dec-2022,,,Active,e0629@example.com
+E0630,Customer Support,G2,E0010,Dhaka HQ,18-Jan-2023,2024-05-07,Workload,Exited,e0630@example.com
+E0631,Engineering,G1,E0125,Dhaka HQ,06/01/2023,,,Active,e0631@example.com
+E0632,Operations,G5,E0132,Sylhet,2023-01-08,06/02/2024,Better offer,Exited,e0632@example.com
+E0633,ENGINEERING,G4,E0039,Chattogram,09-Jan-2023,,,Active,e0633@example.com
+E0634,Support,G3,E0086,Chattogram,2023-01-12,10-Jun-2023,Better offer,Exited,e0634@example.com
+E0635,CS,G3,E0086,Sylhet,10/01/2023,10/07/2023,Personal,Exited,e0635@example.com
+E0636,FIN,,E0014,Dhaka HQ,11-Jan-2023,,,Active,e0636@example.com
+E0637,Human Resources,G1,E0017,Dhaka HQ,16-Jan-2023,21-Jul-2025,Better offer,Exited,e0637@example.com
+E0638,Support,G1,E0538,Sylhet,17-Jan-2023,2024-11-19,Career growth,Exited,e0638@example.com
+E0639,Customer Support,G1,E0086,Chattogram,05-Jan-2023,2023-12-20,Better offer,Exited,e0639@example.com
+E0640,OPERATIONS,G4,E0007,Chattogram,15-Jan-2023,,,Active,e0640@example.com
+E0641,Sales & BD,G4,E0005,Dhaka HQ,27/01/2023,27/08/2025,Workload,Exited,e0641@example.com
+E0642,SALES,G1,E0212,Sylhet,2023-02-05,16-Jun-2024,Workload,Exited,e0642@example.com
+E0643,customer support,G2,E0010,Chattogram,19-Feb-2023,2024-01-18,Relocation,Exited,e0643@example.com
+E0644,sales,G1,E0336,Sylhet,05-Feb-2023,,,Active,e0644@example.com
+E0645,Ops,G1,E0145,Sylhet,28-Feb-2023,,,Active,e0645@example.com
+E0646,Sales,G1,E0183,Chattogram,21-Feb-2023,07/12/2023,Career growth,Exited,e0646@example.com
+E0647,Operations,G2,E0009,Dhaka HQ,28-Feb-2023,20-Jul-2023,Personal,Exited,e0647@example.com
+E0648,Engineering,G1,E0024,Dhaka HQ,01-Feb-2023,26/03/2023,Career growth,Exited,e0648@example.com
+E0649,Tech,G4,E0002,Chattogram,2023-02-28,,,Active,e0649@example.com
+E0650,OPERATIONS,G3,E0317,Chattogram,24-Feb-2023,24-Nov-2023,Personal,Exited,e0650@example.com
+E0651,Tech,G1,E0098,Dhaka HQ,2023-02-04,2023-11-27,Workload,Exited,e0651@example.com
+E0652,sales,G1,E0133,Sylhet,21-Feb-2023,27/11/2023,Personal,Exited,e0652@example.com
+E0653,Ops,G2,E0296,Sylhet,2023-02-26,2025-04-28,Career growth,Exited,e0653@example.com
+E0654,Engg,G2,E0167,Dhaka HQ,16/03/2023,10-Sep-2024,Workload,Exited,e0654@example.com
+E0655,sales,G2,E0183,Chattogram,10/03/2023,17/04/2023,Better offer,Exited,e0655@example.com
+E0656,ENGINEERING,G2,E0338,Dhaka HQ,20/03/2023,,,Active,e0656@example.com
+E0657,customer support,G4,E0152,Chattogram,25/03/2023,23/06/2023,Career growth,Exited,e0657@example.com
+E0658,Sales & BD,G1,E0278,Dhaka HQ,18-Mar-2023,,,Active,e0658@example.com
+E0659,Product,G1,E0020,Chattogram,19-Mar-2023,,,Active,e0659@example.com
+E0660,Ops,G2,E0317,Sylhet,2023-03-12,23-Nov-2023,Better offer,Exited,e0660@example.com
+E0661,People,G1,E0050,Dhaka HQ,21/04/2023,,,Active,e0661@example.com
+E0662,Finance & Accounts,G4,E0058,Dhaka HQ,2023-04-01,,,Active,e0662@example.com
+E0663,ENGINEERING,G1,E0001,Dhaka HQ,08/04/2023,2024-05-14,Personal,Exited,e0663@example.com
+E0664,Ops,G1,E5397,Dhaka HQ,02-Apr-2023,,,Active,e0664@example.com
+E0665,Sales,G3,E0168,Dhaka HQ,14-Apr-2023,25-Nov-2024,Relocation,Exited,e0665@example.com
+E0666,Engg,G3,E0027,Dhaka HQ,26-Apr-2023,,,Active,e0666@example.com
+E0667,FIN,G3,E5854,Chattogram,2023-04-04,,,Active,e0667@example.com
+E0668,Sales,G1,E0135,Dhaka HQ,27/04/2023,22-May-2023,Better offer,Exited,e0668@example.com
+E0669,OPERATIONS,G1,E0296,Dhaka HQ,18/05/2023,,,Active,e0669@example.com
+E0670,Finance & Accounts,G2,E0015,Chattogram,05/05/2023,,,Active,e0670@example.com
+E0671,ENGINEERING,G3,E0242,Dhaka HQ,05/05/2023,,,Active,e0671@example.com
+E0672,Ops,G3,E0042,Dhaka HQ,2023-05-18,,,Active,e0672@example.com
+E0673,Customer Support,G1,E0150,Dhaka HQ,03-Jun-2023,,,Active,e0673@example.com
+E0674,customer support,G1,E0657,Chattogram,14/06/2023,2023-10-19,Workload,Exited,e0674@example.com
+E0675,sales,G3,E0133,Dhaka HQ,18-Jul-2023,,,Active,e0675@example.com
+E0676,Customer Support,G4,E0322,Dhaka HQ,02-Jul-2023,,,Active,e0676@example.com
+E0677,Sales & BD,G1,E0006,Sylhet,28-Jul-2023,2023-11-15,Performance,Exited,e0677@example.com
+E0678,sales,G1,E0006,Dhaka HQ,2023-08-08,2025-03-11,Better offer,Exited,e0678@example.com
+E0679,Ops,G2,E0143,Sylhet,20-Aug-2023,,,Active,e0679@example.com
+E0680,Customer Support,G1,E0010,Dhaka HQ,14/08/2023,2023-10-14,Better offer,Exited,e0680@example.com
+E0681,Finance & Accounts,G2,E0121,Sylhet,2023-08-25,,,Active,e0681@example.com
+E0682,Finance,G2,E0015,Dhaka HQ,27/09/2023,,,Active,e0682@example.com
+E0683,People,G1,E0043,Dhaka HQ,14/09/2023,,,Active,e0683@example.com
+E0684,Support,,E0322,Sylhet,2023-09-16,2024-05-10,Performance,Exited,e0684@example.com
+E0685,SALES,G3,E0246,Chattogram,2023-10-27,22-Mar-2024,Career growth,Exited,e0685@example.com
+E0686,SALES,G1,E0128,Sylhet,06/10/2023,2023-11-25,Relocation,Exited,e0686@example.com
+E0687,Ops,G3,E0042,Dhaka HQ,17-Oct-2023,2024-01-12,Performance,Exited,e0687@example.com
+E0688,sales,G4,E0213,Dhaka HQ,2023-10-19,2025-06-09,Personal,Exited,e0688@example.com
+E0689,ENGINEERING,G2,E0024,Dhaka HQ,2023-10-26,25/10/2024,Performance,Exited,e0689@example.com
+E0690,CS,G1,E0086,Dhaka HQ,28-Oct-2023,08/06/2024,Workload,Exited,e0690@example.com
+E0691,ENGINEERING,G1,E0276,Chattogram,2023-10-02,,,Active,e0691 at example.com
+E0692,Finance & Accounts,G2,E0506,Dhaka HQ,17-Oct-2023,,,Active,e0692@example.com
+E0693,Operations,G2,E0296,Sylhet,23/10/2023,,,Active,e0693@example.com
+E0694,OPERATIONS,G3,E0008,Dhaka HQ,2023-10-02,,,Active,e0694@example.com
+E0695,Tech,G1,E0214,Dhaka HQ,10-Oct-2023,11-Sep-2025,Relocation,Exited,e0695@example.com
+E0696,SALES,G1,E0004,Sylhet,19/11/2023,2024-02-09,Better offer,Exited,e0696@example.com
+E0697,Engineering,G1,E0649,Dhaka HQ,27-Nov-2023,,,Active,e0697@example.com
+E0698,Sales,G5,E0309,Dhaka HQ,2023-11-25,2025-11-03,Personal,Exited,e0698@example.com
+E0699,sales,G1,E0587,Chattogram,08-Nov-2023,,,Active,e0699@example.com
+E0700,sales,G2,E0213,Sylhet,14/12/2023,2024-03-13,Career growth,Exited,e0700@example.com
+E0701,Engg,G5,E0600,Chattogram,17-Dec-2023,,,Active,e0701@example.com
+E0702,Sales & BD,G1,E0146,Chattogram,2023-12-19,28-Mar-2024,Better offer,Exited,e0702@example.com
+E0703,customer support,G2,E0130,Dhaka HQ,19-Dec-2023,01-Aug-2024,Workload,Exited,e0703@example.com
+E0704,Engineering,G1,E0633,Dhaka HQ,03/12/2023,,,Active,e0704@example.com
+E0705,SALES,G2,E0239,Dhaka HQ,21-Dec-2023,2025-05-16,Relocation,Exited,e0705@example.com
+E0706,Engg,G1,E0325,Dhaka HQ,28/12/2023,,,Active,e0706@example.com
+E0707,HR,G3,E0018,Dhaka HQ,03/12/2023,,,Active,e0707@example.com
+E0708,Tech,G2,E0633,Dhaka HQ,16-Dec-2023,,,Active,e0708@example.com
+E0709,ENGINEERING,G2,E0025,Dhaka HQ,09/01/2024,12/09/2024,Workload,Exited,e0709@example.com
+E0710,ENGINEERING,G2,E0325,Dhaka HQ,2024-01-10,2025-12-23,Better offer,Exited,e0710@example.com
+E0711,HR,G3,E0018,Dhaka HQ,22-Jan-2024,02-Jun-2024,Better offer,Exited,e0711@example.com
+E0712,Finance & Accounts,G1,E0458,Dhaka HQ,2024-01-02,,,Active,e0712@example.com
+E0713,Support,G3,E5756,Chattogram,04/01/2024,23-Mar-2024,Career growth,Exited,e0713@example.com
+E0714,sales,G1,E0278,Sylhet,09-Jan-2024,,,Active,e0714@example.com
+E0715,SALES,G1,E0239,Dhaka HQ,2024-01-13,22-Jun-2025,Personal,Exited,e0715@example.com
+E0716,Ops,G1,E0330,Dhaka HQ,15-Jan-2024,,,Active,e0716@example.com
+E0717,Tech,G1,E0002,Sylhet,05-Jan-2024,08/03/2024,Career growth,Exited,e0717@example.com
+E0718,customer support,G1,E0657,Sylhet,11/01/2024,28-Jul-2024,Career growth,Exited,e0718@example.com
+E0719,Operations,G1,E0149,Chattogram,24-Jan-2024,,,Active,e0719@example.com
+E0720,SALES,G2,E0622,Dhaka HQ,2024-01-07,,,Active,e0720@example.com
+E0721,Engg,G1,E0242,Sylhet,02/01/2024,2024-02-25,Better offer,Exited,e0721@example.com
+E0722,Engineering,G1,E0633,Sylhet,23/01/2024,23-Feb-2024,Higher studies,Exited,e0722 at example.com
+E0723,Operations,G3,E5673,Chattogram,22/01/2024,07/06/2024,Relocation,Exited,e0723@example.com
+E0724,customer support,G3,E0090,Dhaka HQ,28/01/2024,,,Active,e0724@example.com
+E0725,SALES,G1,E0128,Dhaka HQ,2024-02-23,2025-04-21,Higher studies,Exited,e0725@example.com
+E0726,HR,G2,E0016,Chattogram,2024-02-05,20/09/2024,Career growth,Exited,e0726@example.com
+E0727,Ops,G1,E0317,Sylhet,2024-02-22,,,Active,e0727@example.com
+E0728,Finance & Accounts,G1,E0013,Chattogram,06/02/2024,,,Active,e0728@example.com
+E0729,Tech,G1,E0125,Dhaka HQ,25/02/2024,2024-11-11,Better offer,Exited,e0729@example.com
+E0730,Operations,G4,E0143,Dhaka HQ,11-Feb-2024,06-Apr-2024,Relocation,Exited,e0730@example.com
+E0731,Engg,G1,E0039,Dhaka HQ,01-Feb-2024,2025-08-01,Relocation,Exited,e0731@example.com
+E0732,Operations,G3,E0221,Sylhet,16-Feb-2024,2025-10-06,Better offer,Exited,e0732@example.com
+E0733,Sales,G1,E0278,Dhaka HQ,26/02/2024,03/07/2024,Workload,Exited,e0733@example.com
+E0734,Engg,G5,E0041,Sylhet,12-Mar-2024,,,Active,e0734@example.com
+E0735,Ops,G1,E0640,Dhaka HQ,10/03/2024,,,Active,e0735@example.com
+E0736,Engineering,G2,E0242,Dhaka HQ,2024-03-09,,,Active,e0736@example.com
+E0737,Ops,G1,E0173,Sylhet,2024-03-24,,,Active,e0737@example.com
+E0738,SALES,G1,E0006,Chattogram,06/03/2024,,,Active,e0738@example.com
+E0739,ENGINEERING,G1,E0633,Dhaka HQ,01-Mar-2024,,,Active,e0739@example.com
+E0740,ENGINEERING,G1,E0338,Dhaka HQ,04/03/2024,,,Active,e0740@example.com
+E0741,OPERATIONS,G2,E0145,Dhaka HQ,04-Mar-2024,,,Active,e0741@example.com
+E0742,Operations,G2,E0319,Dhaka HQ,2024-03-05,2024-12-03,Workload,Exited,e0742@example.com
+E0743,Customer Support,G2,E0657,Dhaka HQ,02/03/2024,24/09/2024,Better offer,Exited,e0743@example.com
+E0744,sales,G1,E0061,Dhaka HQ,26/03/2024,,,Active,e0744@example.com
+E0745,HR,G1,E0018,Chattogram,2024-03-19,,,Active,e0745@example.com
+E0746,Ops,G1,E0042,Chattogram,2024-03-11,,,Active,e0746@example.com
+E0747,CS,G1,E0150,Dhaka HQ,2024-03-01,13/08/2024,Personal,Exited,e0747@example.com
+E0748,Finance & Accounts,G3,E0057,Dhaka HQ,2024-04-16,09-Dec-2024,Career growth,Exited,e0748@example.com
+E0749,Support,G2,E0178,Chattogram,16-Apr-2024,,,Active,e0749@example.com
+E0750,ENGINEERING,G1,E0403,Chattogram,2024-04-24,09-Nov-2024,Career growth,Exited,e0750@example.com
+E0751,Finance,G2,E0121,Sylhet,05/04/2024,,,Active,e0751@example.com
+E0752,customer support,,E0322,Dhaka HQ,09-Apr-2024,11/04/2025,Career growth,Exited,e0752@example.com
+E0753,Support,G2,E0152,Dhaka HQ,21-Apr-2024,2025-06-20,Career growth,Exited,e0753@example.com
+E0754,OPERATIONS,G1,E0319,Dhaka HQ,03-Apr-2024,2024-05-01,Performance,Exited,e0754@example.com
+E0755,Sales & BD,G1,E0031,Dhaka HQ,2024-04-17,,,Active,e0755@example.com
+E0756,Operations,G3,E0335,Dhaka HQ,2024-04-28,,,Active,e0756@example.com
+E0757,OPERATIONS,G2,E0008,Dhaka HQ,25/04/2024,2024-10-24,Performance,Exited,e0757@example.com
+E0758,Engg,G2,E0262,Dhaka HQ,01-Apr-2024,20/02/2025,Career growth,Exited,e0758@example.com
+E0759,Customer Support,G4,E0012,Dhaka HQ,16-Apr-2024,2024-12-11,Better offer,Exited,e0759@example.com
+E0760,Ops,G1,E0330,Dhaka HQ,13/04/2024,,,Active,e0760@example.com
+E0761,Operations,G1,E0149,Dhaka HQ,16/04/2024,24-Sep-2024,Higher studies,Exited,e0761@example.com
+E0762,Finance & Accounts,G1,E0058,Sylhet,01/04/2024,,,Active,e0762@example.com
+E0763,Tech,G2,E0167,Dhaka HQ,24-Apr-2024,,,Active,e0763@example.com
+E0764,Tech,G2,E0600,Dhaka HQ,06-Apr-2024,,,Active,e0764@example.com
+E0765,sales,G3,E0061,Dhaka HQ,2024-05-04,,,Active,e0765@example.com
+E0766,Finance & Accounts,G1,E0057,Dhaka HQ,14/05/2024,,,Active,e0766@example.com
+E0767,Operations,G3,E0225,Dhaka HQ,18/05/2024,,,Active,e0767@example.com
+E0768,SALES,G1,E0031,Dhaka HQ,2024-05-07,18-Jun-2024,Better offer,Exited,e0768@example.com
+E0769,Sales,G1,E0129,Dhaka HQ,01/05/2024,,,Active,e0769@example.com
+E0770,Ops,G1,E0640,Dhaka HQ,05-May-2024,,,Active,e0770@example.com
+E0771,Tech,G1,E0325,Chattogram,28/05/2024,2024-07-05,Career growth,Exited,e0771@example.com
+E0772,OPERATIONS,G2,E0132,Dhaka HQ,09-May-2024,2024-10-04,Career growth,Exited,e0772@example.com
+E0773,Tech,G2,E0041,Dhaka HQ,03/05/2024,,,Active,e0773@example.com
+E0774,Customer Support,G2,E0010,Dhaka HQ,11/06/2024,2024-09-23,Career growth,Exited,e0774@example.com
+E0775,Sales,G2,E0246,Dhaka HQ,17-Jun-2024,02-Jan-2025,Better offer,Exited,e0775@example.com
+E0776,Ops,G1,E0009,Chattogram,2024-06-21,02-May-2025,Personal,Exited,e0776@example.com
+E0777,OPERATIONS,G4,E0730,Dhaka HQ,14/06/2024,,,Active,e0777@example.com
+E0778,customer support,G3,E0130,Chattogram,2024-06-06,,,Active,e0778@example.com
+E0779,Tech,G1,E0025,Dhaka HQ,18-Jun-2024,,,Active,e0779@example.com
+E0780,Engg,G3,E0227,Dhaka HQ,25/06/2024,,,Active,e0780@example.com
+E0781,Operations,G1,E0145,Dhaka HQ,09/06/2024,,,Active,e0781@example.com
+E0782,Operations,G1,E0335,Chattogram,2024-06-21,14/08/2024,Relocation,Exited,e0782@example.com
+E0783,Finance,G1,E0058,Dhaka HQ,03-Jun-2024,,,Active,e0783@example.com
+E0784,SALES,G2,E0246,Dhaka HQ,14/06/2024,,,Active,e0784@example.com
+E0785,Human Resources,,E0022,Dhaka HQ,05/06/2024,,,Active,e0785@example.com
+E0786,OPERATIONS,G3,E0777,Dhaka HQ,13/06/2024,,,Active,e0786@example.com
+E0787,Sales,G2,E0183,Dhaka HQ,13/06/2024,,,Active,e0787@example.com
+E0788,sales,G1,E0622,Dhaka HQ,11/06/2024,,,Active,e0788@example.com
+E0789,Engineering,G1,E0701,Chattogram,12-Jun-2024,,,Active,e0789@example.com
+E0790,Sales,G2,E0587,Dhaka HQ,28-Jul-2024,,,Active,e0790@example.com
+E0791,Sales,G1,E0239,Dhaka HQ,2024-07-27,23-Feb-2025,Career growth,Exited,e0791@example.com
+E0792,SALES,,E0278,Chattogram,15-Jul-2024,,,Active,e0792@example.com
+E0793,People,G1,E0018,Chattogram,01/07/2024,,,Active,e0793@example.com
+E0794,FIN,G1,E0013,Dhaka HQ,2024-07-09,,,Active,e0794@example.com
+E0795,Engineering,G4,E0048,Sylhet,23/07/2024,,,Active,e0795@example.com
+E0796,OPERATIONS,G3,E0145,Chattogram,03/07/2024,18/12/2024,Better offer,Exited,e0796@example.com
+E0797,FIN,G1,E0013,Dhaka HQ,2024-07-16,,,Active,e0797@example.com
+E0798,Ops,G2,E0225,Dhaka HQ,2024-07-15,,,Active,e0798@example.com
+E0799,SALES,G1,E0278,Dhaka HQ,09-Jul-2024,2024-09-27,Better offer,Exited,e0799@example.com
+E0800,ENGINEERING,G3,E0003,Chattogram,25/07/2024,,,Active,e0800@example.com
+E0801,sales,G1,E0641,Chattogram,2024-07-10,,,Active,e0801@example.com
+E0802,Customer Support,G2,E0086,Chattogram,04-Jul-2024,,,Active,e0802@example.com
+E0803,Sales,G1,E0168,Dhaka HQ,13/08/2024,,,Active,e0803@example.com
+E0804,Customer Support,G1,E0322,Chattogram,03-Aug-2024,,,Active,e0804@example.com
+E0805,Sales & BD,G2,E0158,Dhaka HQ,04-Aug-2024,,,Active,e0805@example.com
+E0806,Engg,G1,E0167,Dhaka HQ,2024-08-21,2025-01-02,Better offer,Exited,e0806@example.com
+E0807,Finance & Accounts,G2,E0014,Dhaka HQ,03-Aug-2024,,,Active,e0807@example.com
+E0808,Ops,G4,E0143,Chattogram,2024-08-14,07-Jun-2025,Career growth,Exited,e0808@example.com
+E0809,SALES,G3,E0135,Dhaka HQ,2024-08-09,03/11/2024,Workload,Exited,e0809@example.com
+E0810,OPERATIONS,G1,E0009,Dhaka HQ,2024-08-24,07-Mar-2025,Workload,Exited,e0810@example.com
+E0811,Engineering,G1,E0649,Dhaka HQ,12-Aug-2024,,,Active,e0811@example.com
+E0812,Operations,,E0335,Sylhet,23/08/2024,,,Active,e0812@example.com
+E0813,FIN,G1,E0058,Sylhet,12/08/2024,,,Active,e0813@example.com
+E0814,Sales & BD,G1,E0031,Sylhet,02-Aug-2024,,,Active,e0814@example.com
+E0815,PRODUCT,G2,E0059,Chattogram,2024-08-23,,,Active,e0815@example.com
+E0816,Ops,G1,E0173,Dhaka HQ,07-Sep-2024,04/12/2025,Relocation,Exited,e0816@example.com
+E0817,Sales & BD,G3,E0146,Dhaka HQ,2024-09-28,,,Active,e0817@example.com
+E0818,Engg,G1,E0256,Chattogram,2024-09-26,,,Active,e0818@example.com
+E0819,HR,G2,E0050,Dhaka HQ,2024-09-23,,,Active,e0819@example.com
+E0820,SALES,G4,E0587,Sylhet,12/09/2024,12-Oct-2024,Performance,Exited,e0820@example.com
+E0821,Engg,G1,E0403,Dhaka HQ,17/09/2024,,,Active,e0821@example.com
+E0822,Sales,G1,E0278,Sylhet,2024-09-07,,,Active,e0822@example.com
+E0823,Ops,G4,E0132,Dhaka HQ,2024-09-27,,,Active,e0823@example.com
+E0824,Sales & BD,G3,E0336,Dhaka HQ,24/09/2024,26-Jan-2025,Personal,Exited,e0824@example.com
+E0825,Sales,G2,E0158,Chattogram,03-Sep-2024,,,Active,e0825@example.com
+E0826,Sales,G1,E0158,Dhaka HQ,2024-09-24,,,Active,e0826@example.com
+E0827,Engg,G3,E0734,Sylhet,28-Sep-2024,,,Active,e0827@example.com
+E0828,sales,G1,E0061,Dhaka HQ,01-Sep-2024,,,Active,e0828@example.com
+E0829,Tech,G2,E0098,Sylhet,24-Sep-2024,15-Sep-2025,Better offer,Exited,e0829@example.com
+E0830,Finance,G1,E0058,Sylhet,2024-09-05,,,Active,e0830@example.com
+E0831,ENGINEERING,G2,E0325,Chattogram,28-Sep-2024,,,Active,e0831@example.com
+E0832,Engg,G2,E0633,Sylhet,26-Sep-2024,2025-05-26,Better offer,Exited,e0832@example.com
+E0833,customer support,G2,E0130,Dhaka HQ,03-Sep-2024,,,Active,e0833@example.com
+E0834,Support,G2,E0178,Dhaka HQ,21/09/2024,,,Active,e0834@example.com
+E0835,People,G1,E0022,Dhaka HQ,2024-10-28,,,Active,e0835@example.com
+E0836,sales,G1,E0133,Sylhet,21/10/2024,,,Active,e0836@example.com
+E0837,Sales,G3,E0146,Dhaka HQ,02-Oct-2024,09/11/2025,Personal,Exited,e0837@example.com
+E0838,Sales & BD,G2,E0063,Sylhet,2024-10-20,,,Active,e0838@example.com
+E0839,Human Resources,G3,E0022,Dhaka HQ,18-Oct-2024,2025-02-20,Performance,Exited,e0839@example.com
+E0840,Ops,G1,E0132,Sylhet,2024-10-21,10/02/2025,Performance,Exited,e0840@example.com
+E0841,ENGINEERING,G1,E0025,DHAKA HQ ,04-Oct-2024,,,Active,e0841@example.com
+E0842,OPERATIONS,G2,E0330,Dhaka HQ,27/10/2024,11/10/2025,Career growth,Exited,e0842@example.com
+E0843,Tech,G4,E0214,Sylhet,25-Oct-2024,,,Active,e0843@example.com
+E0844,SALES,G1,E0087,Dhaka HQ,2024-10-07,,,Active,e0844@example.com
+E0845,Operations,G1,E0008,Dhaka HQ,01-Oct-2024,19/03/2025,Relocation,Exited,e0845@example.com
+E0846,ENGINEERING,G3,E0734,DHAKA HQ ,2024-10-05,,,Active,e0846@example.com
+E0847,Engineering,G1,E0039,Dhaka HQ,14/11/2024,,,Active,e0847@example.com
+E0848,SALES,G1,E0641,Chattogram,22/11/2024,2025-12-19,Relocation,Exited,e0848@example.com
+E0849,sales,G2,E0146,Dhaka HQ,2024-11-21,15/03/2025,Better offer,Exited,e0849@example.com
+E0850,SALES,G1,E0158,Sylhet,2024-11-08,,,Active,e0850@example.com
+E0851,HR,G2,E0785,Dhaka HQ,09/11/2024,,,Active,e0851@example.com
+E0852,SALES,G2,E0246,Chattogram,13/11/2024,,,Active,e0852@example.com
+E0853,People,G1,E0043,Dhaka HQ,07-Nov-2024,,,Active,e0853@example.com
+E0854,Tech,G2,E0256,Sylhet,2024-11-09,,,Active,e0854 at example.com
+E0855,CS,G3,E0657,Dhaka HQ,23/11/2024,,,Active,e0855@example.com
+E0856,Ops,G2,E0132,Sylhet,06/11/2024,12-Feb-2025,Workload,Exited,e0856@example.com
+E0857,Ops,G1,E0632,Dhaka HQ,2024-11-02,,,Active,e0857@example.com
+E0858,Sales,G3,E0005,Chattogram,02-Nov-2024,15/05/2025,Personal,Exited,e0858@example.com
+E0859,OPERATIONS,G2,E0143,Dhaka HQ,03/11/2024,15-Mar-2025,Performance,Exited,e0859@example.com
+E0860,Ops,G2,E0335,Dhaka HQ,2024-11-09,,,Active,e0860@example.com
+E0861,SALES,G2,E0158,Dhaka HQ,19/11/2024,,,Active,e0861@example.com
+E0862,CS,G1,E0150,Sylhet,2024-11-16,08/03/2025,Performance,Exited,e0862@example.com
+E0863,customer support,G1,E0178,Chattogram,21-Nov-2024,13/05/2025,Better offer,Exited,e0863@example.com
+E0864,Tech,G3,E0002,Chattogram,23-Dec-2024,12-Jun-2025,Workload,Exited,e0864@example.com
+E0865,FIN,G1,E0506,Dhaka HQ,27-Dec-2024,,,Active,e0865@example.com
+E0866,Operations,G1,E0317,Dhaka HQ,2024-12-14,2025-02-14,Better offer,Exited,e0866@example.com
+E0867,SALES,G1,E0135,Dhaka HQ,2024-12-13,,,Active,e0867@example.com
+E0868,Ops,G2,E0330,Dhaka HQ,20/12/2024,,,Active,e0868@example.com
+E0869,Customer Support,G3,E0178,Dhaka HQ,25/12/2024,18/04/2025,Workload,Exited,e0869@example.com
+E0870,People,G2,E0018,Dhaka HQ,27-Dec-2024,02-Aug-2025,Personal,Exited,e0870@example.com
+E0871,Operations,G1,E0808,Chattogram,28-Dec-2024,,,Active,e0871@example.com
+E0872,FIN,G3,E0506,Chattogram,25/12/2024,,,Active,e0872@example.com
+E0873,Operations,G2,E0007,Dhaka HQ,18-Dec-2024,2025-09-18,Personal,Exited,e0873@example.com
+E0874,Finance & Accounts,G2,E0014,Dhaka HQ,14/12/2024,,,Active,e0874@example.com
+E0875,Operations,G1,E0009,Dhaka HQ,12/12/2024,,,Active,e0875@example.com
+E0876,Engineering,G2,E0002,Dhaka HQ,28/01/2025,13-Dec-2025,Higher studies,Exited,e0876@example.com
+E0877,Operations,G2,E0823,Dhaka HQ,21/01/2025,,,Active,e0877@example.com
+E0878,sales,G2,E0246,Chattogram,13/01/2025,,,Active,e0878@example.com
+E0879,Tech,G2,E0002,Chattogram,28-Jan-2025,,,Active,e0879@example.com
+E0880,OPERATIONS,G1,E0808,Sylhet,2025-01-25,,,Active,e0880@example.com
+E0881,ENGINEERING,G4,E0262,Chattogram,2025-01-19,,,Active,e0881@example.com
+E0882,FIN,G2,E0458,Sylhet,23-Jan-2025,,,Active,e0882@example.com
+E0883,Engineering,G3,E0125,Chattogram,03/01/2025,,,Active,e0883@example.com
+E0884,Product,G1,E0059,Chattogram,05-Jan-2025,18/09/2025,Personal,Exited,e0884@example.com
+E0885,Operations,G2,E0632,Chattogram,17-Jan-2025,,,Active,e0885@example.com
+E0886,ENGINEERING,G1,E0024,Sylhet,2025-01-12,,,Active,e0886@example.com
+E0887,CS,G2,E0010,Sylhet,2025-01-16,,,Active,e0887@example.com
+E0888,Engg,G2,E0002,Dhaka HQ,03-Jan-2025,,,Active,e0888@example.com
+E0889,customer support,G1,E0086,Dhaka HQ,2025-01-12,,,Active,e0889@example.com
+E0890,People,G3,E0785,Dhaka HQ,15-Jan-2025,,,Active,e0890@example.com
+E0891,Support,G1,E0012,Sylhet,19-Jan-2025,2025-12-24,Workload,Exited,e0891@example.com
+E0892,FIN,G2,E0121,Dhaka HQ,11/01/2025,,,Active,e0892@example.com
+E0893,customer support,G2,E0150,Dhaka HQ,2025-01-26,,,Active,e0893@example.com
+E0894,Sales & BD,G4,E0820,Chattogram,06-Jan-2025,01/03/2025,Workload,Exited,e0894@example.com
+E0895,Ops,G5,E0221,Dhaka HQ,04/01/2025,,,Active,e0895@example.com
+E0896,Ops,G3,E0613,Chattogram,15/01/2025,,,Active,e0896@example.com
+E0897,Operations,G3,E0149,Dhaka HQ,2025-01-17,,,Active,e0897@example.com
+E0898,Engineering,G1,E0227,Dhaka HQ,2025-02-03,,,Active,e0898@example.com
+E0899,Operations,G1,E0143,Dhaka HQ,2025-02-26,,,Active,e0899@example.com
+E0900,Operations,G1,E0640,Sylhet,25-Feb-2025,,,Active,e0900@example.com
+E0901,ENGINEERING,G1,E0039,Chattogram,18/02/2025,,,Active,e0901@example.com
+E0902,Sales,G3,E5956,Dhaka HQ,11-Feb-2025,,,Active,e0902@example.com
+E0903,Sales & BD,G1,E0063,Dhaka HQ,2025-02-05,,,Active,e0903@example.com
+E0904,Ops,G1,E0808,Dhaka HQ,27/02/2025,,,Active,e0904@example.com
+E0905,Sales,G1,E0006,Dhaka HQ,2025-02-15,,,Active,e0905@example.com
+E0906,Engg,G3,E0276,Dhaka HQ,27-Feb-2025,,,Active,e0906@example.com
+E0907,Ops,G2,E0640,Sylhet,13/02/2025,,,Active,e0907@example.com
+E0908,Support,G2,E0322,Sylhet,20/02/2025,,,Active,e0908@example.com
+E0909,Sales & BD,G1,E0129,Chattogram,13/02/2025,,,Active,e0909@example.com
+E0910,Finance & Accounts,G3,E0014,Dhaka HQ,19-Feb-2025,,,Active,e0910@example.com
+E0911,Customer Support,G3,E0012,Dhaka HQ,26-Feb-2025,,,Active,e0911@example.com
+E0912,Operations,G1,E0221,Chattogram,2025-02-20,,,Active,e0912@example.com
+E0913,sales,G2,E0087,Dhaka HQ,18/02/2025,,,Active,e0913@example.com
+E0914,SALES,G1,E0622,Dhaka HQ,09/02/2025,,,Active,e0914@example.com
+E0915,Ops,G4,E0456,Dhaka HQ,04/02/2025,,,Active,e0915@example.com
+E0916,Human Resources,G2,E0017,Dhaka HQ,23/02/2025,,,Active,e0916@example.com
+E0917,Ops,G3,E0730,Dhaka HQ,15/02/2025,,,Active,e0917@example.com
+E0918,Operations,G1,E0808,Dhaka HQ,14-Feb-2025,,,Active,e0918@example.com
+E0919,Support,G5,E0130,Chattogram,2025-02-26,24-May-2025,Career growth,Exited,e0919@example.com
+E0920,Sales & BD,G1,E0087,Dhaka HQ,07/02/2025,,,Active,e0920@example.com
+E0921,Tech,G1,E0048,Dhaka HQ,12/03/2025,03-Dec-2025,Personal,Exited,e0921@example.com
+E0922,People,G1,E0022,Dhaka HQ,13/03/2025,,,Active,e0922@example.com
+E0923,OPERATIONS,G1,E0808,Dhaka HQ,10/03/2025,,,Active,e0923@example.com
+E0924,Ops,G1,E0640,Dhaka HQ,04/03/2025,,,Active,e0924@example.com
+E0925,Operations,G3,E0143,Sylhet,14/03/2025,2025-06-02,Personal,Exited,e0925@example.com
+E0926,Tech,G1,E0024,Dhaka HQ,05-Mar-2025,,,Active,e0926@example.com
+E0927,Operations,G1,E0613,Chattogram,26/03/2025,23/08/2025,Workload,Exited,e0927@example.com
+E0928,Tech,G2,E0024,Dhaka HQ,24-Mar-2025,,,Active,e0928@example.com
+E0929,Sales,G1,E0063,Dhaka HQ,23/03/2025,2025-12-03,Higher studies,Exited,e0929@example.com
+E0930,Ops,G4,E0225,Sylhet,2025-03-18,,,Active,e0930@example.com
+E0931,Operations,,E0296,Dhaka HQ,21-Mar-2025,,,Active,e0931@example.com
+E0932,Customer Support,G3,E0178,Chattogram,23/03/2025,,,Active,e0932@example.com
+E0933,Sales & BD,G2,E0278,Dhaka HQ,2025-03-28,,,Active,e0933@example.com
+E0934,Engg,G1,E0125,Dhaka HQ,04/03/2025,,,Active,e0934@example.com
+E0935,OPERATIONS,G1,E0319,Sylhet,2025-03-27,05-Jul-2025,Workload,Exited,e0935@example.com
+E0936,Operations,G1,E0149,Dhaka HQ,06/03/2025,2025-05-15,Better offer,Exited,e0936@example.com
+E0937,OPERATIONS,G1,E0296,Sylhet,08-Mar-2025,,,Active,e0937@example.com
+E0938,Finance & Accounts,G1,E0506,Dhaka HQ,17/03/2025,,,Active,e0938@example.com
+E0939,Support,G3,E0090,Dhaka HQ,2025-03-28,,,Active,e0939@example.com
+E0940,Ops,G1,E0777,Dhaka HQ,08-Mar-2025,,,Active,e0940@example.com
+E0941,Ops,G2,E0143,Dhaka HQ,12-Mar-2025,,,Active,e0941@example.com
+E0942,Engineering,G2,E0242,Dhaka HQ,2025-04-25,,,Active,e0942@example.com
+E0943,ENGINEERING,G3,E0843,Dhaka HQ,2025-04-26,,,Active,e0943@example.com
+E0944,ENGINEERING,,E0338,Dhaka HQ,15/04/2025,,,Active,e0944@example.com
+E0945,Support,G2,E0759,Chattogram,26-Apr-2025,,,Active,e0945@example.com
+E0946,Finance & Accounts,G3,E0662,Dhaka HQ,25-Apr-2025,,,Active,e0946@example.com
+E0947,Sales,G1,E0641,Chattogram,25/04/2025,2025-05-21,Relocation,Exited,e0947@example.com
+E0948,Customer Support,G1,E0657,Sylhet,17-Apr-2025,,,Active,e0948@example.com
+E0949,Operations,G1,E0632,Dhaka HQ,09-Apr-2025,,,Active,e0949@example.com
+E0950,CS,G2,E0094,Dhaka HQ,2025-04-11,08/08/2025,Better offer,Exited,e0950@example.com
+E0951,Customer Support,G1,E0152,Dhaka HQ,22/04/2025,,,Active,e0951@example.com
+E0952,Ops,G1,E0173,Dhaka HQ,14/04/2025,,,Active,e0952@example.com
+E0953,customer support,G1,E0759,Sylhet,2025-04-11,,,Active,e0953@example.com
+E0954,Tech,G3,E0262,Dhaka HQ,2025-04-02,11/09/2025,Better offer,Exited,e0954@example.com
+E0955,Support,G1,E0152,Chattogram,2025-04-28,,,Active,e0955@example.com
+E0956,Ops,G5,E0225,Sylhet,2025-04-22,2025-08-08,Performance,Active,e0956@example.com
+E0957,customer support,G1,E0676,Dhaka HQ,03/04/2025,,,Active,e0957@example.com
+E0958,CS,G2,E0130,Dhaka HQ,15-Apr-2025,,,Active,e0958@example.com
+E0959,Ops,G2,E0956,Dhaka HQ,28-Apr-2025,,,Active,e0959@example.com
+E0960,Operations,G1,E0335,Chattogram,2025-05-20,13-Oct-2025,Better offer,Exited,e0960@example.com
+E0961,Finance,,E0057,Dhaka HQ,04-May-2025,,,Active,e0961@example.com
+E0962,ENGINEERING,G1,E0734,Dhaka HQ,08-May-2025,,,Active,e0962@example.com
+E0963,Human Resources,G1,E0043,Chattogram,03-May-2025,,,Active,e0963@example.com
+E0964,CS,G1,E0919,Chattogram,12/05/2025,02-Jun-2025,Workload,Exited,e0964@example.com
+E0965,SALES,G2,E0061,Dhaka HQ,28-May-2025,2025-11-18,Better offer,Exited,e0965@example.com
+E0966,ENGINEERING,G2,E0039,Dhaka HQ,2025-05-13,,,Active,e0966@example.com
+E0967,Ops,G2,E0009,Dhaka HQ,21-May-2025,,,Active,e0967@example.com
+E0968,Ops,G2,E0823,Dhaka HQ,28-May-2025,,,Active,e0968@example.com
+E0969,Support,G4,E0130,Sylhet,28-May-2025,2025-07-07,Better offer,Exited,e0969@example.com
+E0970,Sales,G1,E0168,Chattogram,25-May-2025,,,Active,e0970@example.com
+E0971,SALES,G1,E0894,Sylhet,20-May-2025,2025-06-09,Career growth,Exited,e0971@example.com
+E0972,Finance & Accounts,G1,E0057,Dhaka HQ,13-May-2025,,,Active,e0972@example.com
+E0973,Operations,G1,E0042,Dhaka HQ,2025-05-02,,,Active,e0973@example.com
+E0974,Operations,G3,E0613,Chattogram,2025-05-01,,,Active,e0974 at example.com
+E0975,Ops,G1,E0149,Dhaka HQ,2025-05-18,,,Active,e0975@example.com
+E0976,Engineering,G3,E0734,Chattogram,07-May-2025,,,Active,e0976@example.com
+E0977,Sales,G1,E0688,Chattogram,23-Jun-2025,,,Active,e0977@example.com
+E0978,HR,G2,E0018,Sylhet,14/06/2025,,,Active,e0978@example.com
+E0979,ENGINEERING,,E0262,Sylhet,24-Jun-2025,,,Active,e0979@example.com
+E0980,SALES,G2,E0278,Chattogram,2025-06-15,,,Active,e0980@example.com
+E0981,Finance & Accounts,G2,E0057,Dhaka HQ,2025-06-22,,,Active,e0981@example.com
+E0982,Sales,G2,E0146,Sylhet,04-Jun-2025,,,Active,e0982@example.com
+E0983,Customer Support,G4,E0538,Dhaka HQ,2025-06-14,,,Active,e0983@example.com
+E0984,Sales & BD,G1,E0820,Sylhet,2025-06-13,,,Active,e0984@example.com
+E0985,Sales,G2,E0158,Chattogram,22/06/2025,28/08/2025,Career growth,Exited,e0985@example.com
+E0986,SALES,G3,E0688,Sylhet,2025-06-03,,,Active,e0986@example.com
+E0987,Operations,G1,E0132,Sylhet,18-Jun-2025,,,Active,e0987@example.com
+E0988,Tech,G1,E0262,Dhaka HQ,2025-06-24,,,Active,e0988@example.com
+E0989,Tech,G3,E0214,Dhaka HQ,05/06/2025,,,Active,e0989@example.com
+E0990,OPERATIONS,G1,E0730,Chattogram,2025-06-13,,,Active,e0990@example.com
+E0991,sales,G2,E0168,Dhaka HQ,19/06/2025,15/09/2025,Higher studies,Exited,e0991@example.com
+E0992,SALES,G1,E0087,Sylhet,20-Jun-2025,,,Active,e0992@example.com
+E0993,Operations,G3,E0221,Chattogram,11-Jun-2025,,,Active,e0993@example.com
+E0994,Operations,G1,E0008,Sylhet,07/06/2025,,,Active,e0994@example.com
+E0995,Ops,G1,E0808,Dhaka HQ,02/06/2025,27/07/2025,Workload,Exited,e0995@example.com
+E0996,customer support,G4,E0657,Chattogram,2025-06-15,,,Active,e0996@example.com
+E0997,OPERATIONS,G1,E0298,Chattogram,06/06/2025,,,Active,e0997@example.com
+E0998,Engg,G1,E0944,Sylhet,2025-06-24,,,Active,e0998@example.com
+E0999,Sales,G2,E0641,Sylhet,14/07/2025,,,Active,e0999@example.com
+E1000,ENGINEERING,G2,E0276,Dhaka HQ,2025-07-04,,,Active,e1000@example.com
+E1001,Support,G2,E0090,Dhaka HQ,08/07/2025,,,Active,e1001@example.com
+E1002,Sales & BD,G1,E0820,Dhaka HQ,16-Jul-2025,23-Oct-2025,Better offer,Exited,e1002@example.com
+E1003,OPERATIONS,G2,E0008,Chattogram,18-Jul-2025,,,Active,e1003@example.com
+E1004,Ops,G1,E0317,Chattogram,03-Jul-2025,,,Active,e1004@example.com
+E1005,PRODUCT,G2,E0020,Dhaka HQ,2025-07-11,,,Active,e1005@example.com
+E1006,HR,G1,E0043,Chattogram,26/07/2025,,,Active,e1006@example.com
+E1007,Sales & BD,G1,E5450,Dhaka HQ,25-Jul-2025,,,Active,e1007@example.com
+E1008,CS,G2,E0983,Dhaka HQ,15-Jul-2025,,,Active,e1008@example.com
+E1009,Tech,G1,E0214,Chattogram,2025-07-24,,,Active,e1009@example.com
+E1010,Operations,G2,E0632,Dhaka HQ,2025-07-09,,,Active,e1010@example.com
+E1011,SALES,G1,E0168,Dhaka HQ,15/07/2025,2025-09-11,Career growth,Exited,e1011@example.com
+E1012,SALES,G1,E0820,Dhaka HQ,14-Jul-2025,,,Active,e1012@example.com
+E1013,Engg,G1,E0600,Sylhet,05-Jul-2025,,,Active,e1013@example.com
+E1014,SALES,G2,E0031,Dhaka HQ,09/07/2025,,,Active,e1014@example.com
+E1015,ENGINEERING,G1,E0262,Dhaka HQ,19/07/2025,,,Active,e1015@example.com
+E1016,OPERATIONS,G1,E0225,Chattogram,2025-07-22,,,Active,e1016@example.com
+E1017,SALES,G3,E0894,Sylhet,2025-08-13,2025-12-07,Relocation,Exited,e1017@example.com
+E1018,Sales & BD,G1,E0327,Dhaka HQ,22-Aug-2025,,,Active,e1018@example.com
+E1019,Sales,G3,E0894,Sylhet,26/08/2025,,,Active,e1019@example.com
+E1020,Tech,G5,E0167,DHAKA HQ ,19-Aug-2025,,,Active,e1020@example.com
+E1021,ENGINEERING,G1,E0027,Dhaka HQ,05-Aug-2025,,,Active,e1021@example.com
+E1022,SALES,G2,E0158,Dhaka HQ,04-Aug-2025,,,Active,e1022@example.com
+E1023,SALES,G3,E0135,Chattogram,2025-08-02,,,Active,e1023@example.com
+E1024,OPERATIONS,G1,E0145,Dhaka HQ,11/08/2025,,,Active,e1024@example.com
+E1025,Operations,G1,E0808,Dhaka HQ,14/08/2025,,,Active,e1025@example.com
+E1026,Human Resources,G3,E0018,Chattogram,26-Aug-2025,,,Active,e1026@example.com
+E1027,Ops,G2,E0319,Sylhet,2025-08-11,,,Active,e1027@example.com
+E1028,Operations,G2,E0777,Dhaka HQ,2025-08-06,,,Active,e1028@example.com
+E1029,Engineering,G1,E0167,Dhaka HQ,26-Aug-2025,,,Active,e1029@example.com
+E1030,Engineering,G1,E0325,Dhaka HQ,22/08/2025,,,Active,e1030@example.com
+E1031,Ops,G1,E0042,Dhaka HQ,2025-08-20,,,Active,e1031@example.com
+E1032,Engg,G2,E0649,Chattogram,2025-08-27,,,Active,e1032@example.com
+E1033,Finance & Accounts,G1,E0014,Dhaka HQ,19-Aug-2025,,,Active,e1033@example.com
+E1034,ENGINEERING,G3,E0002,Dhaka HQ,2025-08-04,,,Active,e1034@example.com
+E1035,Sales,G1,E0278,Sylhet,02/08/2025,,,Active,e1035@example.com
+E1036,HR,G1,E0022,Dhaka HQ,2025-09-23,,,Active,e1036@example.com
+E1037,Operations,G1,E0915,Dhaka HQ,2025-09-07,,,Active,e1037@example.com
+E1038,Sales,G1,E0246,Dhaka HQ,21-Sep-2025,,,Active,e1038@example.com
+E1039,Engineering,G1,E0734,Sylhet,04-Sep-2025,2025-12-04,Career growth,Exited,e1039@example.com
+E1040,Engg,G1,E0048,Dhaka HQ,2025-09-26,,,Active,e1040@example.com
+E1041,SALES,G3,E0641,Chattogram,2025-09-21,,,Active,e1041@example.com
+E1042,Operations,G2,E0296,Dhaka HQ,2025-09-08,06-Nov-2025,Better offer,Exited,e1042@example.com
+E1043,Sales & BD,G1,E0688,Chattogram,2025-09-14,,,Active,e1043@example.com
+E1044,Engg,G1,E0338,Dhaka HQ,2025-09-22,,,Active,e1044@example.com
+E1045,Ops,G1,E0915,Dhaka HQ,18/09/2025,,,Active,e1045@example.com
+E1046,Sales & BD,G2,E0820,Dhaka HQ,2025-09-15,,,Active,e1046@example.com
+E1047,OPERATIONS,G2,E0296,Dhaka HQ,24/09/2025,,,Active,e1047@example.com
+E1048,Operations,G3,E0613,Dhaka HQ,09-Sep-2025,,,Active,e1048@example.com
+E1049,Engineering,G1,E0649,Sylhet,07-Sep-2025,,,Active,e1049@example.com
+E1050,Sales & BD,,E0336,Dhaka HQ,2025-09-12,,,Active,e1050@example.com
+E1051,SALES,G1,E0168,Dhaka HQ,21/10/2025,,,Active,e1051@example.com
+E1052,Engineering,G1,E0325,Sylhet,16-Oct-2025,,,Active,e1052@example.com
+E1053,Ops,G2,E0132,Sylhet,17-Oct-2025,,,Active,e1053@example.com
+E1054,ENGINEERING,G1,E0276,Dhaka HQ,2025-10-12,,,Active,e1054@example.com
+E1055,Engg,G1,E0649,Dhaka HQ,2025-10-14,,,Active,e1055@example.com
+E1056,Operations,G2,E0730,Dhaka HQ,18/10/2025,,,Active,e1056@example.com
+E1057,Operations,G3,E0173,Dhaka HQ,14-Oct-2025,,,Active,e1057@example.com
+E1058,ENGINEERING,G3,E0843,Dhaka HQ,14-Oct-2025,,,Active,e1058@example.com
+E1059,Operations,G1,E0930,Dhaka HQ,08-Oct-2025,,,Active,e1059@example.com
+E1060,Engg,G1,E0256,Dhaka HQ,2025-10-23,,,Active,e1060@example.com
+E1061,Customer Support,G1,E0086,Sylhet,03-Oct-2025,,,Active,e1061 at example.com
+E1062,Sales & BD,G2,E0135,Sylhet,2025-10-17,,,Active,e1062@example.com
+E1063,Ops,G1,E0221,Dhaka HQ,12/10/2025,,,Active,e1063@example.com
+E1064,Sales & BD,G1,E0278,Chattogram,09-Oct-2025,,,Active,e1064@example.com
+E1065,People,G2,E0043,Dhaka HQ,12-Oct-2025,,,Active,e1065@example.com
+E1066,Human Resources,G1,E0043,Chattogram,18-Oct-2025,,,Active,e1066@example.com
+E1067,Ops,G2,E0225,Dhaka HQ,03/10/2025,,,Active,e1067@example.com
+E1068,Engineering,G2,E0002,Dhaka HQ,22/11/2025,,,Active,e1068@example.com
+E1069,Engg,G2,E0242,Dhaka HQ,09-Nov-2025,,,Active,e1069@example.com
+E1070,Operations,G1,E0777,Chattogram,25/11/2025,,,Active,e1070@example.com
+E1071,Ops,G3,E0009,Dhaka HQ,2025-11-02,,,Active,e1071@example.com
+E1072,Tech,G2,E0633,Dhaka HQ,14-Nov-2025,,,Active,e1072@example.com
+E1073,Customer Support,G3,E0919,Dhaka HQ,2025-11-06,14-Dec-2025,Better offer,Exited,e1073@example.com
+E1074,Tech,G1,E0881,Sylhet,2025-11-25,,,Active,e1074@example.com
+E1075,Product,G3,E0059,Dhaka HQ,2025-11-15,,,Active,e1075@example.com
+E1076,HR,G1,E0016,Dhaka HQ,2025-11-01,,,Active,e1076@example.com
+E1077,SALES,G1,E0128,Dhaka HQ,06-Nov-2025,,,Active,e1077@example.com
+E1078,Engineering,G2,E0338,Dhaka HQ,02-Nov-2025,,,Active,e1078@example.com
+E1079,Human Resources,G2,E0016,Dhaka HQ,07-Nov-2025,,,Active,e1079@example.com
+E1080,People,G1,E0017,Dhaka HQ,2025-11-01,,,Active,e1080@example.com
+E1081,Tech,G1,E0881,Dhaka HQ,22/11/2025,,,Active,e1081@example.com
+E1082,Support,G2,E0969,Dhaka HQ,01/11/2025,,,Active,e1082@example.com
+E1083,HR,G1,E0785,Chattogram,15/11/2025,,,Active,e1083@example.com
+E1084,Ops,G2,E0330,Dhaka HQ,14-Nov-2025,,,Active,e1084@example.com
+E1085,ENGINEERING,G1,E0256,Dhaka HQ,11-Dec-2025,,,Active,e1085@example.com
+E1086,Tech,G1,E0027,Dhaka HQ,2025-12-23,,,Active,e1086@example.com
+E1087,Sales,G5,E0133,Sylhet,24/12/2025,,,Active,e1087@example.com
+E1088,Ops,G1,E0007,Chattogram,05-Dec-2025,,,Active,e1088@example.com
+E1089,ENGINEERING,G1,E0701,Chattogram,2025-12-26,,,Active,e1089@example.com
+E1090,Ops,G2,E0221,Dhaka HQ,04/12/2025,,,Active,e1090@example.com
+E1091,customer support,G1,E0086,Chattogram,16/12/2025,,,Active,e1091@example.com
+E1092,Sales,G2,E0183,Sylhet,09-Dec-2025,,,Active,e1092@example.com
+E1093,Sales & BD,G1,E0133,Dhaka HQ,02-Dec-2025,,,Active,e1093@example.com
+E1094,OPERATIONS,G1,E0730,Dhaka HQ,06/12/2025,,,Active,e1094@example.com
+E1095,Engg,G3,E0649,Sylhet,24/12/2025,,,Active,e1095@example.com
+E1096,customer support,G1,E0094,Sylhet,06-Dec-2025,,,Active,e1096@example.com
+E1097,sales,G2,E0820,Dhaka HQ,2025-12-25,,,Active,e1097@example.com
+E1098,Operations,G3,E0296,Dhaka HQ,2025-12-10,,,Active,e1098@example.com
+E1099,Sales,G1,E0246,Dhaka HQ,2025-12-24,,,Active,e1099@example.com
+E0901,ENGINEERING,G1,E0039,Chattogram,18/02/2025,,,Active,e0901@example.com
+E0529,Engineering,G1,E0025,Dhaka HQ,15/08/2022,,,Active,e0529@example.com
+E0735,Ops,G1,E0640,Dhaka HQ,10/03/2024,,,Active,e0735@example.com
+E1043,Sales & BD,G1,E0688,Chattogram,2025-09-14,,,Active,e1043@example.com
+E0749,Support,G2,E0178,Chattogram,16-Apr-2024,,,Active,e0749@example.com
+E0611,ENGINEERING,G2,E0048,Sylhet,2022-12-14,24/04/2024,Career growth,Exited,e0611@example.com
+E0109,Engineering,G2,E0024,Chattogram,2019-08-23,,,Active,e0109@example.com
+E0271,customer support,G2,E0178,Dhaka HQ,2019-11-13,14/01/2023,Better offer,Exited,e0271@example.com
+E0789,Engineering,G1,E0701,Chattogram,12-Jun-2024,,,Active,e0789@example.com
+E0400,SALES,G2,E0168,Chattogram,06-Mar-2022,16/12/2025,Career growth,Exited,e0400@example.com
+E0129,sales,G4,E0063,Sylhet,2021-09-12,2025-07-16,Career growth,Exited,e0129@example.com
+E0124,Operations,G1,E0009,Chattogram,2021-09-27,,,Active,e0124@example.com
+E0807,Finance & Accounts,G2,E0014,Dhaka HQ,03-Aug-2024,,,Active,e0807@example.com
+E0642,SALES,G1,E0212,Sylhet,2023-02-05,16-Jun-2024,Workload,Exited,e0642@example.com
+E0055,Operations,G1,E0008,Sylhet,2021-04-17,2024-08-21,Workload,Exited,e0055@example.com
+E0455,Customer Support,G1,E0178,Dhaka HQ,13/05/2022,2024-10-11,Performance,Exited,e0455@example.com
+E0456,OPERATIONS,G4,E0143,Dhaka HQ,2022-06-10,,,Active,e0456@example.com
+E0870,People,G2,E0018,Dhaka HQ,27-Dec-2024,02-Aug-2025,Personal,Exited,e0870@example.com
+E0834,Support,G2,E0178,Dhaka HQ,21/09/2024,,,Active,e0834@example.com
+E0472,Support,G2,E0094,Chattogram,2022-06-05,2022-08-16,Higher studies,Exited,e0472@example.com
+E0217,Support,G2,E0011,Sylhet,29-Jun-2021,,,Active,e0217@example.com
